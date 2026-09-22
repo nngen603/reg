@@ -1,0 +1,97 @@
+{
+  "clause_types": [
+    "scope",
+    "procedure",
+    "requirement",
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "Approved Supplier",
+      "modality": "shall",
+      "action": "submit an application for registration of the product",
+      "condition": "",
+      "quote": "Registration of Product",
+      "confidence": 0.9
+    },
+    {
+      "subject": "",
+      "modality": "reserves_right",
+      "action": "ESMA to inspect the product and/or the manufacturing facility",
+      "condition": "as part of the registration process",
+      "quote": "Registration of Product",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Approved Supplier",
+      "modality": "shall",
+      "action": "ensure that the product complies with the relevant UAE Standards and/or ESMA recognized National/Regional and International Standards",
+      "condition": "prior to registration",
+      "quote": "Registration of Product",
+      "confidence": 0.7
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "Registration of Product",
+      "confidence": 0.95
+    },
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "Emirates Authority for Standardization and Metrology",
+      "quote": "Registration of Product",
+      "confidence": 0.95
+    },
+    {
+      "type": "role",
+      "text": "Approved Supplier",
+      "normalized": "manufacturer and/or trader responsible for the product",
+      "quote": "Registration of Product",
+      "confidence": 0.95
+    },
+    {
+      "type": "standard_reference",
+      "text": "UAE Standards",
+      "normalized": "UAE Standards",
+      "quote": "Registration of Product",
+      "confidence": 0.8
+    },
+    {
+      "type": "standard_reference",
+      "text": "ESMA recognized National/Regional and International Standards",
+      "normalized": "ESMA recognized National/Regional and International Standards",
+      "quote": "Registration of Product",
+      "confidence": 0.8
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "Specific Requirements",
+      "scope": "external",
+      "target_document": "Specific Requirements",
+      "target_clause_id": "",
+      "quote": "Registration of Product",
+      "confidence": 0.7
+    },
+    {
+      "text": "ECAS Certificate of Conformity",
+      "scope": "external",
+      "target_document": "ECAS Certificate of Conformity",
+      "target_clause_id": "",
+      "quote": "Registration of Product",
+      "confidence": 0.6
+    },
+    {
+      "text": "Initial Testing",
+      "scope": "external",
+      "target_document": "Initial Testing",
+      "target_clause_id": "",
+      "quote": "Registration of Product",
+      "confidence": 0.6
+    }
+  ]
+}

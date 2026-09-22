@@ -1,0 +1,49 @@
+{
+  "clause_types": [
+    "requirement",
+    "normative_reference"
+  ],
+  "obligations": [
+    {
+      "subject": "ECAS",
+      "modality": "shall",
+      "action": "issue a registration certificate",
+      "condition": "",
+      "quote": "THE ECAS REGISTRATION CERTIFICATE",
+      "confidence": 0.9
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ECAS",
+      "normalized": "ECAS",
+      "quote": "THE ECAS REGISTRATION CERTIFICATE",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Low Voltage Equipment",
+      "normalized": "Low Voltage Equipment (LVE)",
+      "quote": "THE ECAS REGISTRATION CERTIFICATE",
+      "confidence": 0.8
+    },
+    {
+      "type": "legal_reference",
+      "text": "Specific Requirements",
+      "normalized": "Specific Requirements",
+      "quote": "THE ECAS REGISTRATION CERTIFICATE",
+      "confidence": 0.7
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "Specific Requirements",
+      "scope": "external",
+      "target_document": "Specific Requirements",
+      "target_clause_id": "",
+      "quote": "THE ECAS REGISTRATION CERTIFICATE",
+      "confidence": 0.7
+    }
+  ]
+}

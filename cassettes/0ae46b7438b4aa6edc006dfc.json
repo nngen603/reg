@@ -1,0 +1,39 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "have a Users Manual in Arabic and English language",
+      "condition": "",
+      "quote": "Users Manual in Arabic and English language.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Users Manual",
+      "normalized": "Users Manual",
+      "quote": "Users Manual in Arabic and English language.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "Arabic",
+      "normalized": "Arabic",
+      "quote": "Users Manual in Arabic and English language.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "English language",
+      "normalized": "English language",
+      "quote": "Users Manual in Arabic and English language.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

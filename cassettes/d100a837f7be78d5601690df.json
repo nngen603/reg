@@ -1,0 +1,33 @@
+{
+  "clause_types": [
+    "requirement",
+    "normative_reference"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "reserves_right",
+      "action": "refer to BS 546 for plug configurations for 15 Ampere appliances",
+      "condition": "",
+      "quote": "BS 546 Plug Configurations for 15 Ampere Appliances.",
+      "confidence": 0.95
+    }
+  ],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "BS 546",
+      "normalized": "BS 546",
+      "quote": "BS 546 Plug Configurations for 15 Ampere Appliances.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "15 Ampere Appliances",
+      "normalized": "15 Ampere Appliances",
+      "quote": "BS 546 Plug Configurations for 15 Ampere Appliances.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

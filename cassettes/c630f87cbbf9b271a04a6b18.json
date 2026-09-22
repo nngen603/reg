@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "legal_reference",
+      "text": "ECAS Certificate of Conformity",
+      "normalized": "ECAS Certificate of Conformity",
+      "quote": "5.5 ECAS Certificate of Conformity – a certificate of conformity issued to the product complying to a relevant UAE Standard/s or to any ESMA recognized National/Regional and International Standards.",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "UAE Standard/s",
+      "normalized": "UAE Standard/s",
+      "quote": "5.5 ECAS Certificate of Conformity – a certificate of conformity issued to the product complying to a relevant UAE Standard/s or to any ESMA recognized National/Regional and International Standards.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "ESMA recognized National/Regional and International Standards",
+      "normalized": "ESMA recognized National/Regional and International Standards",
+      "quote": "5.5 ECAS Certificate of Conformity – a certificate of conformity issued to the product complying to a relevant UAE Standard/s or to any ESMA recognized National/Regional and International Standards.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

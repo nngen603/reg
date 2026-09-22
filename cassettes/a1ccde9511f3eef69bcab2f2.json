@@ -1,0 +1,44 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Initial Testing",
+      "normalized": "Initial Testing",
+      "quote": "\"5.8 Initial Testing - refers to the verification of product conformance to a specified Product Standards and/or Specific Requirements prior to the registration of Product.\"",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Product",
+      "normalized": "Product",
+      "quote": "\"5.8 Initial Testing - refers to the verification of product conformance to a specified Product Standards and/or Specific Requirements prior to the registration of Product.\"",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Product Standards",
+      "normalized": "Product Standards",
+      "quote": "\"5.8 Initial Testing - refers to the verification of product conformance to a specified Product Standards and/or Specific Requirements prior to the registration of Product.\"",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "Specific Requirements",
+      "normalized": "Specific Requirements",
+      "quote": "\"5.8 Initial Testing - refers to the verification of product conformance to a specified Product Standards and/or Specific Requirements prior to the registration of Product.\"",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "registration of Product",
+      "normalized": "registration of Product",
+      "quote": "\"5.8 Initial Testing - refers to the verification of product conformance to a specified Product Standards and/or Specific Requirements prior to the registration of Product.\"",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

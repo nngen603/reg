@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "Product shall be defined according to and appropriate schemes shall be implemented",
+      "condition": "based upon the risk brought about by the product",
+      "quote": "Product shall be defined according and appropriate schemes shall be implemented based upon the risk brought about by the product.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Product",
+      "normalized": "Product",
+      "quote": "Product shall be defined according and appropriate schemes shall be implemented based upon the risk brought about by the product.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "appropriate schemes",
+      "normalized": "appropriate conformity assessment schemes",
+      "quote": "appropriate schemes shall be implemented",
+      "confidence": 0.9
+    }
+  ],
+  "cross_references": []
+}

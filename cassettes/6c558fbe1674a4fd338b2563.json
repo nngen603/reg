@@ -1,0 +1,46 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "supplier",
+      "modality": "may",
+      "action": "use the certificate in clearing the registered products at the Ports and Customs Authorities",
+      "condition": "After obtaining the Registration Certificate",
+      "quote": "After obtaining the Registration Certificate, the supplier can use the certificate in clearing the registered products at the Ports and Customs Authorities.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "supplier",
+      "normalized": "supplier",
+      "quote": "After obtaining the Registration Certificate, the supplier can use the certificate in clearing the registered products at the Ports and Customs Authorities.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Ports and Customs Authorities",
+      "normalized": "Ports and Customs Authorities",
+      "quote": "After obtaining the Registration Certificate, the supplier can use the certificate in clearing the registered products at the Ports and Customs Authorities.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "registered products",
+      "normalized": "registered products",
+      "quote": "After obtaining the Registration Certificate, the supplier can use the certificate in clearing the registered products at the Ports and Customs Authorities.",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "Registration Certificate",
+      "normalized": "Registration Certificate",
+      "quote": "After obtaining the Registration Certificate, the supplier can use the certificate in clearing the registered products at the Ports and Customs Authorities.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

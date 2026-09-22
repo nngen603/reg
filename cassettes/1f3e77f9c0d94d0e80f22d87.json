@@ -1,0 +1,55 @@
+{
+  "clause_types": [
+    "requirement",
+    "scope"
+  ],
+  "obligations": [
+    {
+      "subject": "The United Arab Emirates",
+      "modality": "shall",
+      "action": "take all appropriate measures to ensure that electrical equipment may be placed on the market or put into service only if, having been constructed in accordance with good engineering practices in safety matters prevailing in the International Community, it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made",
+      "condition": "",
+      "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical equipment may be placed on the market or put into service only if, having been constructed in accordance with good engineering practices in safety matters prevailing in the International Community, it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made.",
+      "confidence": 0.99
+    },
+    {
+      "subject": "electrical equipment",
+      "modality": "must",
+      "action": "meet these requirements",
+      "condition": "Before being placed on the market or put into service",
+      "quote": "Before being placed on the market or put into service, the electrical equipment must meet these requirements.",
+      "confidence": 0.99
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "The United Arab Emirates",
+      "normalized": "UAE",
+      "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical equipment may be placed on the market or put into service only if, having been constructed in accordance with good engineering practices in safety matters prevailing in the International Community, it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made.",
+      "confidence": 0.99
+    },
+    {
+      "type": "product_category",
+      "text": "electrical equipment",
+      "normalized": "electrical equipment",
+      "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical equipment may be placed on the market or put into service only if, having been constructed in accordance with good engineering practices in safety matters prevailing in the International Community, it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made.",
+      "confidence": 0.99
+    },
+    {
+      "type": "organisation",
+      "text": "International Community",
+      "normalized": "",
+      "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical equipment may be placed on the market or put into service only if, having been constructed in accordance with good engineering practices in safety matters prevailing in the International Community, it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made.",
+      "confidence": 0.99
+    },
+    {
+      "type": "legal_reference",
+      "text": "Emirate Conformity Assessment Scheme",
+      "normalized": "",
+      "quote": "These provisions constitute the essential requirements of the Emirate Conformity Assessment Scheme rules.",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

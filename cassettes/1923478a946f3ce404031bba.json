@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "be issued an ECAS Registration Certificate to the product",
+      "condition": "upon the fulfillment of all the requirements",
+      "quote": "An ECAS Registration Certificate shall be issued to the product upon the fulfillment of all the requirements.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "ECAS Registration Certificate",
+      "normalized": "",
+      "quote": "An ECAS Registration Certificate shall be issued to the product upon the fulfillment of all the requirements.",
+      "confidence": 0.9
+    }
+  ],
+  "cross_references": []
+}

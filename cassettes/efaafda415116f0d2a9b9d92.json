@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "exemption"
+  ],
+  "obligations": [
+    {
+      "subject": "This document",
+      "modality": "shall",
+      "action": "not apply to the products excluded by UAE / IEC 60335-1",
+      "condition": "",
+      "quote": "This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "IEC 60335-1",
+      "normalized": "IEC 60335-1",
+      "quote": "This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

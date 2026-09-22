@@ -1,0 +1,23 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "BS 1363",
+      "normalized": "BS 1363",
+      "quote": "6.4.1 BS 1363. Plugs with earth and fuse for Class I Appliances",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Class I Appliances",
+      "normalized": "Class I Appliances",
+      "quote": "6.4.1 BS 1363. Plugs with earth and fuse for Class I Appliances",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

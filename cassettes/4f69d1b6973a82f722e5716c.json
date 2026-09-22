@@ -1,0 +1,46 @@
+{
+  "clause_types": [
+    "normative_reference"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "UAE / IEC 60335-1: 2007",
+      "normalized": "UAE/IEC 60335-1:2007",
+      "quote": "1 UAE / IEC 60335-1: 2007 IEC 60335-1 : 2006 Household and similar electrical appliances – Safety – Part 1: General requirements",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "IEC 60335-1 : 2006",
+      "normalized": "IEC 60335-1:2006",
+      "quote": "1 UAE / IEC 60335-1: 2007 IEC 60335-1 : 2006 Household and similar electrical appliances – Safety – Part 1: General requirements",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "IEC 60335 – Part 2’s",
+      "normalized": "IEC 60335-2 series",
+      "quote": "2 UAE / IEC 60335 – Part IEC 60335- Part 2’s Refer to Annex 1",
+      "confidence": 0.9
+    },
+    {
+      "type": "standard_reference",
+      "text": "IEC 60884-1",
+      "normalized": "IEC 60884-1",
+      "quote": "3 IEC 60884-1: Extension cords",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "Refer to Annex 1",
+      "scope": "internal",
+      "target_document": "",
+      "target_clause_id": "",
+      "quote": "2 UAE / IEC 60335 – Part IEC 60335- Part 2’s Refer to Annex 1",
+      "confidence": 0.8
+    }
+  ]
+}

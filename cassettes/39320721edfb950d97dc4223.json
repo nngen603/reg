@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Samples",
+      "modality": "shall",
+      "action": "be tested by an ESMA recognized third party testing laboratory",
+      "condition": "",
+      "quote": "Samples shall be tested by an ESMA recognized third party testing laboratory.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "Samples shall be tested by an ESMA recognized third party testing laboratory.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

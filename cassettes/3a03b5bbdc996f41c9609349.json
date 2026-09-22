@@ -1,0 +1,55 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "use the ECAS Registration Certificate only for the registered product",
+      "condition": "",
+      "quote": "The ECAS Registration Certificate shall be used only for the registered product.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "",
+      "modality": "should",
+      "action": "take care so as not to misuse the certificate",
+      "condition": "",
+      "quote": "Care should be taken so as not to misuse the certificate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "",
+      "modality": "should",
+      "action": "not use the certificate in a manner that ESMA may consider misleading",
+      "condition": "",
+      "quote": "nor to use it in such a manner that ESMA may consider misleading.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "ESMA may consider misleading.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "registered product",
+      "normalized": "registered product",
+      "quote": "The ECAS Registration Certificate shall be used only for the registered product.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "ECAS Registration Certificate",
+      "normalized": "ECAS Registration Certificate",
+      "quote": "The ECAS Registration Certificate shall be used only for the registered product.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

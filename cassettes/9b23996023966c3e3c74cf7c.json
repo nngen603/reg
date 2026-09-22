@@ -1,0 +1,81 @@
+{
+  "clause_types": [
+    "requirement",
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "manufacturer or his authorized representative",
+      "modality": "shall",
+      "action": "implement compulsory procedures and documents imposed by ESMA",
+      "condition": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA",
+      "confidence": 0.95
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "manufacturer or his authorized representative",
+      "normalized": "manufacturer or authorized representative",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant)",
+      "confidence": 0.85
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "conformity assessment procedures",
+      "scope": "internal",
+      "target_document": "CARL-01",
+      "target_clause_id": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant)",
+      "confidence": 0.9
+    },
+    {
+      "text": "marking on the product",
+      "scope": "internal",
+      "target_document": "CARL-01",
+      "target_clause_id": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant)",
+      "confidence": 0.9
+    },
+    {
+      "text": "technical files",
+      "scope": "internal",
+      "target_document": "CARL-01",
+      "target_clause_id": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant)",
+      "confidence": 0.9
+    },
+    {
+      "text": "declaration of conformity",
+      "scope": "internal",
+      "target_document": "CARL-01",
+      "target_clause_id": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant)",
+      "confidence": 0.9
+    },
+    {
+      "text": "instructions for use if relevant",
+      "scope": "internal",
+      "target_document": "CARL-01",
+      "target_clause_id": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant)",
+      "confidence": 0.9
+    }
+  ]
+}

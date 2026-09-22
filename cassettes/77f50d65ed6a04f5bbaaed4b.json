@@ -1,0 +1,64 @@
+{
+  "clause_types": [
+    "requirement",
+    "normative_reference"
+  ],
+  "obligations": [
+    {
+      "subject": "The electrical equipment",
+      "modality": "shall",
+      "action": "be so constructed in accordance with good engineering practices concerning safety",
+      "condition": "",
+      "quote": "The electrical equipment shall be so constructed in accordance with good engineering practices concerning safety.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "the electrical equipment",
+      "modality": "must",
+      "action": "meet the principal elements of safety objectives",
+      "condition": "",
+      "quote": "The principal elements of safety objectives that the electrical equipment must meet are listed in Annex I.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "IEC Standards",
+      "normalized": "",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "UAE Standards",
+      "normalized": "",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "other relevant standards and technical documents",
+      "normalized": "",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "electrical equipment",
+      "normalized": "",
+      "quote": "The electrical equipment shall be so constructed in accordance with good engineering practices concerning safety.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "Annex I",
+      "scope": "internal",
+      "target_document": "",
+      "target_clause_id": "",
+      "quote": "The principal elements of safety objectives that the electrical equipment must meet are listed in Annex I.",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Manufacturer’s / traders",
+      "modality": "shall",
+      "action": "submit a Declaration of Conformity for components and products",
+      "condition": "",
+      "quote": "Manufacturer’s / traders Declaration of Conformity for components and products",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "Manufacturer’s / traders",
+      "normalized": "Manufacturer and/or trader",
+      "quote": "Manufacturer’s / traders Declaration of Conformity for components and products",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "components and products",
+      "normalized": "components and products",
+      "quote": "Manufacturer’s / traders Declaration of Conformity for components and products",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

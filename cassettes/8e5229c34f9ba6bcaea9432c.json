@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Clients",
+      "modality": "shall",
+      "action": "submit Manufacturer’s Declaration of Conformity and Test Report",
+      "condition": "",
+      "quote": "Clients are required to submit\nManufacturer’s Declaration of Conformity and Test Report that to comply with\nthis requirement.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "UAE / IEC Standard",
+      "normalized": "",
+      "quote": "6.1 Compliance of relevant components to be used in manufacturing electrical low\nvoltage equipment to relevant UAE / IEC Standard.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

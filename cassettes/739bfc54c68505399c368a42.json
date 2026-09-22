@@ -1,0 +1,41 @@
+{
+  "clause_types": [
+    "enforcement",
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "reserves_right",
+      "action": "conduct at anytime factory inspection to ensure full compliance of the product",
+      "condition": "",
+      "quote": "ESMA also reserves the right to conduct at anytime factory inspection to ensure full compliance of the product.",
+      "confidence": 0.99
+    },
+    {
+      "subject": "factory inspection",
+      "modality": "shall",
+      "action": "include amongst other the process and product verification of the product and the manner in which the product are carefully inspected and handled",
+      "condition": "",
+      "quote": "The factory inspection shall include amongst other the process and product verification of the product and the manner in which the product are carefully inspected and handled.",
+      "confidence": 0.99
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "ESMA also reserves the right to conduct at anytime factory inspection to ensure full compliance of the product.",
+      "confidence": 0.99
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "",
+      "quote": "The factory inspection shall include amongst other the process and product verification of the product and the manner in which the product are carefully inspected and handled.",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

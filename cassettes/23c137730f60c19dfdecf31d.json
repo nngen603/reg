@@ -1,0 +1,17 @@
+{
+  "clause_types": [
+    "procedure"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "reserves_right",
+      "action": "submit an application for registration of low voltage equipment",
+      "condition": "",
+      "quote": "7.1 Application Submission",
+      "confidence": 0.7
+    }
+  ],
+  "entities": [],
+  "cross_references": []
+}

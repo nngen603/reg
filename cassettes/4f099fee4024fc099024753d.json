@@ -1,0 +1,39 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "Compliance of the Product to the requirements of UAE Standards or its equivalent international standards",
+      "condition": "",
+      "quote": "6.3 Compliance of the Product to the requirements of UAE Standards or its equivalent international standards.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Product",
+      "normalized": "Product",
+      "quote": "6.3 Compliance of the Product to the requirements of UAE Standards or its equivalent international standards.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "UAE Standards",
+      "normalized": "UAE Standards",
+      "quote": "6.3 Compliance of the Product to the requirements of UAE Standards or its equivalent international standards.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "equivalent international standards",
+      "normalized": "equivalent international standards",
+      "quote": "6.3 Compliance of the Product to the requirements of UAE Standards or its equivalent international standards.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

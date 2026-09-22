@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "reserves_right",
+      "action": "maintain full confidentiality",
+      "condition": "",
+      "quote": "ESMA maintains full confidentiality of all documents submitted by the client",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "ESMA maintains full confidentiality of all documents submitted by the client",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "client",
+      "normalized": "client",
+      "quote": "ESMA maintains full confidentiality of all documents submitted by the client",
+      "confidence": 0.95
+    }
+  ],
+  "cross_references": []
+}

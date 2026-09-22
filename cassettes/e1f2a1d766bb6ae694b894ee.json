@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Manufacturers / Traders",
+      "modality": "shall",
+      "action": "submit Test Reports for major components used",
+      "condition": "",
+      "quote": "Test Reports for major components used.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "major components",
+      "normalized": "major components of low voltage equipment",
+      "quote": "Test Reports for major components used.",
+      "confidence": 0.9
+    }
+  ],
+  "cross_references": []
+}

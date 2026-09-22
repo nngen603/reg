@@ -1,0 +1,100 @@
+{
+  "clause_types": [
+    "requirement",
+    "enforcement"
+  ],
+  "obligations": [
+    {
+      "subject": "Registered products being delivered to UAE",
+      "modality": "shall",
+      "action": "be inspected to ensure continuous compliance",
+      "condition": "",
+      "quote": "Registered products being delivered to UAE shall be inspected to ensure continuous compliance.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "ESMA",
+      "modality": "reserves_right",
+      "action": "inspect and conduct inspection of the product being distributed in the market",
+      "condition": "",
+      "quote": "ESMA reserves the right to inspect and conduct inspection of the product being distributed in the market.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "ESMA",
+      "modality": "shall",
+      "action": "conduct a regular monitoring of product",
+      "condition": "",
+      "quote": "ESMA shall conduct a regular monitoring of product where ESMA shall take samples either at the retail shops or the manufacturer’s warehouse for independent testing.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "ESMA",
+      "modality": "shall",
+      "action": "take samples either at the retail shops or the manufacturer’s warehouse for independent testing",
+      "condition": "",
+      "quote": "ESMA shall conduct a regular monitoring of product where ESMA shall take samples either at the retail shops or the manufacturer’s warehouse for independent testing.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "The result of test",
+      "modality": "shall",
+      "action": "be the basis whether to continue or stop the registration of the product",
+      "condition": "",
+      "quote": "The result of test shall be the basis whether to continue or stop the registration of the product.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "location",
+      "text": "UAE",
+      "normalized": "UAE",
+      "quote": "Registered products being delivered to UAE shall be inspected to ensure continuous compliance.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "ESMA reserves the right to inspect and conduct inspection of the product being distributed in the market.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "ESMA shall conduct a regular monitoring of product where ESMA shall take samples either at the retail shops or the manufacturer’s warehouse for independent testing.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Registered products",
+      "normalized": "registered products",
+      "quote": "Registered products being delivered to UAE shall be inspected to ensure continuous compliance.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "product",
+      "quote": "ESMA shall conduct a regular monitoring of product where ESMA shall take samples either at the retail shops or the manufacturer’s warehouse for independent testing.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "retail shops",
+      "normalized": "retail shops",
+      "quote": "ESMA shall conduct a regular monitoring of product where ESMA shall take samples either at the retail shops or the manufacturer’s warehouse for independent testing.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "manufacturer’s warehouse",
+      "normalized": "manufacturer's warehouse",
+      "quote": "ESMA shall conduct a regular monitoring of product where ESMA shall take samples either at the retail shops or the manufacturer’s warehouse for independent testing.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

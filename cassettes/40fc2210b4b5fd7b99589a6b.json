@@ -1,0 +1,16 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ECAS",
+      "normalized": "",
+      "quote": "5.7 Specific Requirements - a document specifying the set of rules in order for a\nproduct to be registered under ECAS.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

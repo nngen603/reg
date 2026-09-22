@@ -1,0 +1,53 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Clients",
+      "modality": "must",
+      "action": "submit Manufacturer’s Declaration of Conformity and Test Report",
+      "condition": "to comply with the compliance of relevant components to be used in manufacturing electrical low voltage equipment to relevant UAE / IEC Standard",
+      "quote": "Clients are required to submit Manufacturer’s Declaration of Conformity and Test Report that to comply with this requirement.",
+      "confidence": 0.95
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "relevant components",
+      "normalized": "relevant components for low voltage equipment",
+      "quote": "Compliance of relevant components to be used in manufacturing electrical low voltage equipment",
+      "confidence": 0.95
+    },
+    {
+      "type": "product_category",
+      "text": "electrical low voltage equipment",
+      "normalized": "electrical low voltage equipment",
+      "quote": "electrical low voltage equipment to relevant UAE / IEC Standard",
+      "confidence": 0.95
+    },
+    {
+      "type": "standard_reference",
+      "text": "UAE / IEC Standard",
+      "normalized": "UAE/IEC Standard",
+      "quote": "relevant UAE / IEC Standard",
+      "confidence": 0.95
+    },
+    {
+      "type": "legal_reference",
+      "text": "Manufacturer’s Declaration of Conformity",
+      "normalized": "Manufacturer’s Declaration of Conformity",
+      "quote": "Manufacturer’s Declaration of Conformity",
+      "confidence": 0.95
+    },
+    {
+      "type": "legal_reference",
+      "text": "Test Report",
+      "normalized": "Test Report",
+      "quote": "Test Report",
+      "confidence": 0.95
+    }
+  ],
+  "cross_references": []
+}

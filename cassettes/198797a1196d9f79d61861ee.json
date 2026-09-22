@@ -1,0 +1,39 @@
+{
+  "clause_types": [
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "Applicant",
+      "modality": "shall",
+      "action": "bear all the cost related to the conformity assessment of the product",
+      "condition": "",
+      "quote": "Applicant shall bear all the cost related to the conformity assessment of the product.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "Applicant",
+      "normalized": "",
+      "quote": "Applicant shall bear all the cost related to the conformity assessment of the product.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "Applicant shall bear all the cost related to the conformity assessment of the product.",
+      "confidence": 0.8
+    },
+    {
+      "type": "role",
+      "text": "conformity assessment",
+      "normalized": "",
+      "quote": "Applicant shall bear all the cost related to the conformity assessment of the product.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

@@ -1,0 +1,38 @@
+{
+  "clause_types": [
+    "requirement",
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "numeric_threshold",
+      "text": "50 and 1000 volts for alternating current",
+      "normalized": "50-1000 V AC",
+      "quote": "This document prescribes the requirement for the safety of electrical equipment designation for used with input voltage rating between 50 and 1000 volts for alternating current and between 75 volts to 1500 volts for direct current.",
+      "confidence": 0.99
+    },
+    {
+      "type": "numeric_threshold",
+      "text": "75 volts to 1500 volts for direct current",
+      "normalized": "75-1500 V DC",
+      "quote": "This document prescribes the requirement for the safety of electrical equipment designation for used with input voltage rating between 50 and 1000 volts for alternating current and between 75 volts to 1500 volts for direct current.",
+      "confidence": 0.99
+    },
+    {
+      "type": "product_category",
+      "text": "electrical equipment",
+      "normalized": "",
+      "quote": "This document prescribes the requirement for the safety of electrical equipment designation for used with input voltage rating between 50 and 1000 volts for alternating current and between 75 volts to 1500 volts for direct current.",
+      "confidence": 0.99
+    },
+    {
+      "type": "product_category",
+      "text": "Low Voltage Equipment",
+      "normalized": "",
+      "quote": "The electrical equipment under this scope is called “Low Voltage Equipment.”",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

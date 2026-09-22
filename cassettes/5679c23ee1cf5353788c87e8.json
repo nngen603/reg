@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "product",
+      "quote": "a product to be registered under ECAS",
+      "confidence": 0.95
+    },
+    {
+      "type": "organisation",
+      "text": "ECAS",
+      "normalized": "Emirates Conformity Assessment Systems",
+      "quote": "a product to be registered under ECAS",
+      "confidence": 0.95
+    },
+    {
+      "type": "legal_reference",
+      "text": "Specific Requirements",
+      "normalized": "Specific Requirements",
+      "quote": "Specific Requirements - a document specifying the set of rules",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

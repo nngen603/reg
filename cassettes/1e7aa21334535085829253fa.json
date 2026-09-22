@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Manufacturers / Traders",
+      "modality": "shall",
+      "action": "submit a filled ECAS application form together with the technical file or technical documentation",
+      "condition": "",
+      "quote": "Manufacturers / Traders shall submit a filled ECAS application form together with the technical file or technical documentation",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "technical file or technical documentation",
+      "normalized": "technical file or technical documentation",
+      "quote": "Technical File or technical documentation",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

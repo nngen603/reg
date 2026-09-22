@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "process, product or service",
+      "normalized": "process, product, service",
+      "quote": "5.4 Conformity Assessment - any activity to determine directly or indirectly, that a process, product or service meets relevant standards and fulfills relevant requirements",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "relevant standards",
+      "normalized": "relevant standards",
+      "quote": "5.4 Conformity Assessment - any activity to determine directly or indirectly, that a process, product or service meets relevant standards and fulfills relevant requirements",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "relevant requirements",
+      "normalized": "relevant requirements",
+      "quote": "5.4 Conformity Assessment - any activity to determine directly or indirectly, that a process, product or service meets relevant standards and fulfills relevant requirements",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "enforcement"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "reserves_right",
+      "action": "conduct at anytime factory inspection to ensure full compliance of the product",
+      "condition": "",
+      "quote": "10.5 ESMA also reserves the right to conduct at anytime factory inspection to ensure full compliance of the product.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "10.5 ESMA also reserves the right to conduct at anytime factory inspection to ensure full compliance of the product.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "10.5 ESMA also reserves the right to conduct at anytime factory inspection to ensure full compliance of the product.",
+      "confidence": 0.8
+    }
+  ],
+  "cross_references": []
+}

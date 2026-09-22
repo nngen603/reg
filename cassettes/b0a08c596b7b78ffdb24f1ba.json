@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "administrative"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "role",
+      "text": "manufacturer",
+      "normalized": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant).",
+      "confidence": 0.99
+    },
+    {
+      "type": "role",
+      "text": "authorized representative",
+      "normalized": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant).",
+      "confidence": 0.99
+    },
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized representative are imposed by ESMA (e.g. conformity assessment procedures, marking on the product, technical files, declaration of conformity, and instructions for use if relevant).",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

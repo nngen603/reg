@@ -1,0 +1,76 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Consignment",
+      "modality": "shall",
+      "action": "be held",
+      "condition": "",
+      "quote": "Consignment without the ECAS Registration Certificate shall be held.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Ports and Customs authority",
+      "modality": "shall",
+      "action": "coordinate with ESMA",
+      "condition": "whenever a consignment without ECAS certificated is observed",
+      "quote": "Ports and Customs authority shall coordinate with ESMA whenever a consignment without ECAS certificated is observed.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Appropriate action",
+      "modality": "shall",
+      "action": "be taken by both ESMA and the Ports and Customs Authorities",
+      "condition": "then",
+      "quote": "Appropriate action shall then be taken by both ESMA and the Ports and Customs Authorities.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "legal_reference",
+      "text": "ECAS Registration Certificate",
+      "normalized": "",
+      "quote": "Consignment without the ECAS Registration Certificate shall be held.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Ports and Customs authority",
+      "normalized": "",
+      "quote": "Ports and Customs authority shall coordinate with ESMA whenever a consignment without ECAS certificated is observed.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "Ports and Customs authority shall coordinate with ESMA whenever a consignment without ECAS certificated is observed.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "ECAS",
+      "normalized": "",
+      "quote": "Ports and Customs authority shall coordinate with ESMA whenever a consignment without ECAS certificated is observed.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Ports and Customs Authorities",
+      "normalized": "",
+      "quote": "Appropriate action shall then be taken by both ESMA and the Ports and Customs Authorities.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Consignment",
+      "normalized": "",
+      "quote": "Consignment without the ECAS Registration Certificate shall be held.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

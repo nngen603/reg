@@ -1,0 +1,23 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "5.10 Approved Standard – refers to a Product Standard approved by ESMA to be used in verifying conformity of a product.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Product Standard",
+      "normalized": "",
+      "quote": "5.10 Approved Standard – refers to a Product Standard approved by ESMA to be used in verifying conformity of a product.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

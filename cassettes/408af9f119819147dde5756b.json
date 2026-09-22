@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Low voltage equipment (LVE)",
+      "normalized": "",
+      "quote": "5.2 Low voltage equipment (LVE) also referred to as “Equipment”: All electrical or electronic equipment including components, parts, finished products, systems and installations, with input voltage rating as indicated in item 3.1.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Equipment",
+      "normalized": "",
+      "quote": "5.2 Low voltage equipment (LVE) also referred to as “Equipment”: All electrical or electronic equipment including components, parts, finished products, systems and installations, with input voltage rating as indicated in item 3.1.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "item 3.1",
+      "scope": "internal",
+      "target_document": "",
+      "target_clause_id": "3.1",
+      "quote": "5.2 Low voltage equipment (LVE) also referred to as “Equipment”: All electrical or electronic equipment including components, parts, finished products, systems and installations, with input voltage rating as indicated in item 3.1.",
+      "confidence": 1.0
+    }
+  ]
+}

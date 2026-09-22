@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "compliance of the product to Tropical Climatic Conditions",
+      "condition": "Where applicable",
+      "quote": "Where applicable, compliance of the product to Tropical Climatic Conditions",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "product",
+      "quote": "Where applicable, compliance of the product to Tropical Climatic Conditions",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "Tropical Climatic Conditions",
+      "normalized": "Tropical Climatic Conditions",
+      "quote": "Where applicable, compliance of the product to Tropical Climatic Conditions",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

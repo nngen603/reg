@@ -1,0 +1,30 @@
+{
+  "clause_types": [],
+  "obligations": [
+    {
+      "subject": "The supplier",
+      "modality": "may",
+      "action": "use the Certificate in trading their product as a proof that the product has been approved by ESMA",
+      "condition": "",
+      "quote": "The supplier may also use the Certificate in trading their product as a proof that the product has been approved by ESMA.",
+      "confidence": 0.99
+    }
+  ],
+  "entities": [
+    {
+      "type": "role",
+      "text": "The supplier",
+      "normalized": "",
+      "quote": "The supplier may also use the Certificate in trading their product as a proof that the product has been approved by ESMA.",
+      "confidence": 0.99
+    },
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "The supplier may also use the Certificate in trading their product as a proof that the product has been approved by ESMA.",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

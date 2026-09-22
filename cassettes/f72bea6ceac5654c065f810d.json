@@ -1,0 +1,18 @@
+{
+  "clause_types": [
+    "responsibility",
+    "enforcement"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "reserves_right",
+      "action": "limit liability",
+      "condition": "",
+      "quote": "12. LIABILITY AND DISCLAIMER",
+      "confidence": 0.9
+    }
+  ],
+  "entities": [],
+  "cross_references": []
+}

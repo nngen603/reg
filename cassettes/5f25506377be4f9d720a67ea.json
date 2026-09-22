@@ -1,0 +1,16 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "",
+      "quote": "6.7 Where applicable, compliance of the product to Tropical Climatic Conditions",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

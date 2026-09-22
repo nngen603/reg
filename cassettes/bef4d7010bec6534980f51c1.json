@@ -1,0 +1,41 @@
+{
+  "clause_types": [
+    "exemption",
+    "procedure"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "must",
+      "action": "rectify the observed non-compliances",
+      "condition": "where the results of test showed that product is not complying with the requirements",
+      "quote": "Where the results of test showed that product is not complying with the requirements, the client needs to rectify the observed non-compliances and can reapply once rectification is made.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "client",
+      "modality": "may",
+      "action": "reapply",
+      "condition": "once rectification is made",
+      "quote": "Where the results of test showed that product is not complying with the requirements, the client needs to rectify the observed non-compliances and can reapply once rectification is made.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "Where the results of test showed that product is not complying with the requirements, the client needs to rectify the observed non-compliances and can reapply once rectification is made.",
+      "confidence": 0.9
+    },
+    {
+      "type": "role",
+      "text": "client",
+      "normalized": "client",
+      "quote": "Where the results of test showed that product is not complying with the requirements, the client needs to rectify the observed non-compliances and can reapply once rectification is made.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

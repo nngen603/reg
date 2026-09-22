@@ -1,0 +1,17 @@
+{
+  "clause_types": [
+    "procedure"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "reserves_right",
+      "action": "collect samples",
+      "condition": "",
+      "quote": "Product Samples",
+      "confidence": 0.3
+    }
+  ],
+  "entities": [],
+  "cross_references": []
+}

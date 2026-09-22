@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "client",
+      "modality": "may",
+      "action": "reapply",
+      "condition": "once rectification is made",
+      "quote": "the client needs to rectify the observed non-compliances and can reapply once rectification is made.",
+      "confidence": 0.95
+    }
+  ],
+  "entities": [
+    {
+      "type": "role",
+      "text": "client",
+      "normalized": "",
+      "quote": "the client needs to rectify the observed non-compliances and can reapply once rectification is made.",
+      "confidence": 0.95
+    }
+  ],
+  "cross_references": []
+}

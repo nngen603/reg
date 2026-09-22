@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "manufacturer / supplier",
+      "modality": "shall",
+      "action": "pay all fees related to market sampling and testing",
+      "condition": "",
+      "quote": "10.6 All fees related to market sampling and testing shall be paid by the manufacturer / supplier",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "role",
+      "text": "manufacturer",
+      "normalized": "",
+      "quote": "10.6 All fees related to market sampling and testing shall be paid by the manufacturer / supplier",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "supplier",
+      "normalized": "",
+      "quote": "10.6 All fees related to market sampling and testing shall be paid by the manufacturer / supplier",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

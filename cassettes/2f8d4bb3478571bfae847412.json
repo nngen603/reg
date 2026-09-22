@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "Product be registered after a full confirmation that the product is complying with the requirements of the relevant IEC or UAE Standard and by this Specific Requirement",
+      "condition": "",
+      "quote": "Product shall be registered after a full confirmation that the product is complying with the requirements of the relevant IEC or UAE Standard and by this Specific Requirement.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "IEC or UAE Standard",
+      "normalized": "IEC or UAE Standard",
+      "quote": "Product shall be registered after a full confirmation that the product is complying with the requirements of the relevant IEC or UAE Standard and by this Specific Requirement.",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "this Specific Requirement",
+      "normalized": "Specific Requirements (CARL-01)",
+      "quote": "Product shall be registered after a full confirmation that the product is complying with the requirements of the relevant IEC or UAE Standard and by this Specific Requirement.",
+      "confidence": 0.95
+    }
+  ],
+  "cross_references": []
+}

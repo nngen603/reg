@@ -1,0 +1,47 @@
+{
+  "clause_types": [
+    "exemption",
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "shall",
+      "action": "not be held responsible for any action (legal or otherwise) raised by any party against the manufacturers / suppliers",
+      "condition": "on matters resulting from the implementation of ECAS for low voltage equipments",
+      "quote": "\"12.1 ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments\"",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "\"12.1 ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments\"",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "manufacturers / suppliers",
+      "normalized": "manufacturers and suppliers",
+      "quote": "\"12.1 ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments\"",
+      "confidence": 0.95
+    },
+    {
+      "type": "product_category",
+      "text": "low voltage equipments",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "\"12.1 ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments\"",
+      "confidence": 0.95
+    },
+    {
+      "type": "organisation",
+      "text": "ECAS",
+      "normalized": "ECAS (Emirates Conformity Assessment Systems)",
+      "quote": "\"12.1 ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments\"",
+      "confidence": 0.95
+    }
+  ],
+  "cross_references": []
+}

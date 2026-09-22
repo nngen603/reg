@@ -1,0 +1,33 @@
+{
+  "clause_types": [
+    "requirement",
+    "procedure"
+  ],
+  "obligations": [
+    {
+      "subject": "Manufacturers / Traders",
+      "modality": "shall",
+      "action": "submit a filled ECAS application form together with the following",
+      "condition": "",
+      "quote": "Manufacturers / Traders shall submit a filled ECAS application form together\nwith the following:",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "role",
+      "text": "Manufacturers / Traders",
+      "normalized": "",
+      "quote": "Manufacturers / Traders shall submit a filled ECAS application form together\nwith the following:",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "ECAS application form",
+      "normalized": "",
+      "quote": "Manufacturers / Traders shall submit a filled ECAS application form together\nwith the following:",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

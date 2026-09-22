@@ -1,0 +1,81 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Low voltage equipment (LVE)",
+      "normalized": "Low voltage equipment (LVE)",
+      "quote": "Low voltage equipment (LVE) also referred to as “Equipment”",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Equipment",
+      "normalized": "Equipment",
+      "quote": "Low voltage equipment (LVE) also referred to as “Equipment”",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "electrical or electronic equipment",
+      "normalized": "electrical or electronic equipment",
+      "quote": "All electrical or electronic equipment including components, parts, finished products, systems and installations",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "components",
+      "normalized": "components",
+      "quote": "All electrical or electronic equipment including components, parts, finished products, systems and installations",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "parts",
+      "normalized": "parts",
+      "quote": "All electrical or electronic equipment including components, parts, finished products, systems and installations",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "finished products",
+      "normalized": "finished products",
+      "quote": "All electrical or electronic equipment including components, parts, finished products, systems and installations",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "systems",
+      "normalized": "systems",
+      "quote": "All electrical or electronic equipment including components, parts, finished products, systems and installations",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "installations",
+      "normalized": "installations",
+      "quote": "All electrical or electronic equipment including components, parts, finished products, systems and installations",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "item 3.1",
+      "normalized": "item 3.1",
+      "quote": "with input voltage rating as indicated in item 3.1",
+      "confidence": 0.9
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "item 3.1",
+      "scope": "internal",
+      "target_document": "",
+      "target_clause_id": "3.1",
+      "quote": "with input voltage rating as indicated in item 3.1",
+      "confidence": 0.9
+    }
+  ]
+}

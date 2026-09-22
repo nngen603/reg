@@ -1,0 +1,46 @@
+{
+  "clause_types": [
+    "exemption"
+  ],
+  "obligations": [
+    {
+      "subject": "applicant",
+      "modality": "reserves_right",
+      "action": "submit Proof of Exclusive Distributorship from the manufacturer",
+      "condition": "in case the applicant is a trader or an agent",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "role",
+      "text": "applicant",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "trader",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "agent",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "manufacturer",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

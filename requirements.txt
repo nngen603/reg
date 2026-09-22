@@ -1,0 +1,17 @@
+# Core -- the pipeline will not run without these.
+pydantic==2.13.4
+pydantic-settings==2.15.0
+pdfplumber==0.11.10          # PDF text with character positions
+rapidfuzz==3.14.5            # fuzzy fallback in the grounding gate
+langgraph==1.2.2             # pipeline orchestration
+litellm==1.100.0             # model routing: Router with retries and fallbacks
+instructor==1.17.0           # every model reply validated against the contract, retried if not
+python-dotenv==1.2.2
+
+# Optional integrations. Each is behind a feature flag and defaults to off.
+# The core pipeline, the evals and the test suite all run without them.
+qdrant-client==1.19.0        # hybrid search backend for reference resolution
+langgraph-checkpoint-sqlite==3.1.1   # --review: the pause survives the process ending
+
+# Development
+pytest==8.4.2

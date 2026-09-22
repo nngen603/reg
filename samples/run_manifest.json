@@ -1,0 +1,247 @@
+{
+  "run_id": "6ba6d6e403d4",
+  "total_ms": 1898.6,
+  "environment": {
+    "python": "3.12.7",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "settings": {
+    "mode": "offline (cassette replay)",
+    "recording": false,
+    "primary_model": "anthropic/claude-opus-5",
+    "second_model": "openai/gpt-4.1",
+    "second_fallbacks": [
+      "groq/openai/gpt-oss-120b"
+    ],
+    "agreement": "two families (anthropic vs openai)",
+    "retries": "2 transport, 1 validation",
+    "qdrant": false,
+    "guardrails": false,
+    "judge": false,
+    "resolution": "hybrid (bm25 + dense) -> lexical rerank -> floor",
+    "review": "queue file only",
+    "route_notes": [],
+    "pipeline_version": "0.2.0",
+    "prompt_version": "extract-v1",
+    "taxonomy_version": "taxonomy-v1-10types"
+  },
+  "stages": [
+    {
+      "stage": "ingest",
+      "duration_ms": 1487.2,
+      "counters": {
+        "pages": 8,
+        "chars": 11625,
+        "artefacts_repaired": 2,
+        "furniture_lines_removed": 26
+      },
+      "error": null
+    },
+    {
+      "stage": "segment",
+      "duration_ms": 1.5,
+      "counters": {
+        "clause_count": 73,
+        "top_level_sections": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "numbering_gaps": [],
+        "duplicate_ids": [],
+        "max_depth": 4,
+        "synthetic_ids": [
+          "FEES",
+          "CONTACT",
+          "ANNEX-1"
+        ]
+      },
+      "error": null
+    },
+    {
+      "stage": "guardrails",
+      "duration_ms": 2.0,
+      "counters": {
+        "deterministic_findings": 0,
+        "classifier": "off",
+        "classifier_findings": 0,
+        "clauses_screened": 0,
+        "high_severity": 0
+      },
+      "error": null
+    },
+    {
+      "stage": "extract",
+      "duration_ms": 58.9,
+      "counters": {
+        "clauses_extracted": 73,
+        "model_calls": 146
+      },
+      "error": null
+    },
+    {
+      "stage": "verify",
+      "duration_ms": 56.2,
+      "counters": {
+        "items": 153,
+        "grounded": 153,
+        "ungrounded": 0,
+        "grounding_rate": 1.0
+      },
+      "error": null
+    },
+    {
+      "stage": "resolve",
+      "duration_ms": 75.5,
+      "counters": {
+        "references": 3,
+        "resolved": 3,
+        "not_found": 0,
+        "backend": "in-process",
+        "catalog_size": 211
+      },
+      "error": null
+    },
+    {
+      "stage": "document_flags",
+      "duration_ms": 40.7,
+      "counters": {
+        "flags": [
+          "conflicting_definition"
+        ]
+      },
+      "error": null
+    },
+    {
+      "stage": "route",
+      "duration_ms": 2.4,
+      "counters": {
+        "items": 153,
+        "grounded": 153,
+        "grounding_rate": 1.0,
+        "auto_accept": 133,
+        "review": 20,
+        "review_rate": 0.1307,
+        "accepted_by_reviewer": 0,
+        "rejected": 0,
+        "superseded": 0,
+        "by_tier": {
+          "low": {
+            "total": 67,
+            "auto_accept": 64
+          },
+          "medium": {
+            "total": 67,
+            "auto_accept": 58
+          },
+          "high": {
+            "total": 19,
+            "auto_accept": 11
+          }
+        }
+      },
+      "error": null
+    },
+    {
+      "stage": "publish",
+      "duration_ms": 114.9,
+      "counters": {
+        "published_items": 133,
+        "held_for_review": 20,
+        "publish_log": {
+          "published_new": 133,
+          "published_unchanged": 0,
+          "withdrawn": 0,
+          "review_decisions": 0,
+          "log_entries": 134
+        },
+        "files": {
+          "clauses": "clauses.json",
+          "extractions": "extractions.json",
+          "review_queue": "review_queue.csv"
+        }
+      },
+      "error": null
+    }
+  ],
+  "model_calls": {
+    "calls": 146,
+    "by_source": {
+      "stub": 146
+    },
+    "served_models": {},
+    "fallbacks_used": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "cost_usd": 0.0,
+    "total_latency_ms": 0.0,
+    "errors": []
+  },
+  "structure": {
+    "clause_count": 73,
+    "top_level_sections": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "numbering_gaps": [],
+    "duplicate_ids": [],
+    "max_depth": 4,
+    "synthetic_ids": [
+      "FEES",
+      "CONTACT",
+      "ANNEX-1"
+    ]
+  },
+  "routing": {
+    "items": 153,
+    "grounded": 153,
+    "grounding_rate": 1.0,
+    "auto_accept": 133,
+    "review": 20,
+    "review_rate": 0.1307,
+    "accepted_by_reviewer": 0,
+    "rejected": 0,
+    "superseded": 0,
+    "by_tier": {
+      "low": {
+        "total": 67,
+        "auto_accept": 64
+      },
+      "medium": {
+        "total": 67,
+        "auto_accept": 58
+      },
+      "high": {
+        "total": 19,
+        "auto_accept": 11
+      }
+    }
+  },
+  "document_flags": [
+    {
+      "code": "conflicting_definition",
+      "detail": "ECAS expanded 2 ways: ['emirates conformity assessment scheme', 'emirates conformity assessment systems']"
+    }
+  ],
+  "notes": [],
+  "status": "completed"
+}

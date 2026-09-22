@@ -1,0 +1,18 @@
+{
+  "clause_types": [
+    "procedure",
+    "enforcement"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "reserves_right",
+      "action": "inspect the market and products",
+      "condition": "",
+      "quote": "10 INSPECTION AND MARKET MONITORING",
+      "confidence": 0.9
+    }
+  ],
+  "entities": [],
+  "cross_references": []
+}

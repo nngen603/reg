@@ -1,0 +1,21 @@
+{
+  "clause_types": [],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "12.3 ESMA maintains full confidentiality of all documents submitted by the client",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "the client",
+      "normalized": "",
+      "quote": "12.3 ESMA maintains full confidentiality of all documents submitted by the client",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

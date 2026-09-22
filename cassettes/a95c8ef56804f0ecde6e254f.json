@@ -1,0 +1,70 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "electrical equipment",
+      "modality": "shall",
+      "action": "be so constructed in accordance with good engineering practices concerning safety",
+      "condition": "",
+      "quote": "The electrical equipment shall be so constructed in accordance with good engineering practices concerning safety.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "",
+      "modality": "should",
+      "action": "meet the technical requirements specified in IEC Standards, UAE Standards or other relevant standards and technical documents",
+      "condition": "The electrical equipment must meet these safety practices",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 0.8
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "electrical equipment",
+      "normalized": "electrical equipment",
+      "quote": "The electrical equipment shall be so constructed in accordance with good engineering practices concerning safety.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Equipment",
+      "normalized": "Equipment (low voltage equipment)",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 0.8
+    },
+    {
+      "type": "standard_reference",
+      "text": "IEC Standards",
+      "normalized": "IEC Standards",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "UAE Standards",
+      "normalized": "UAE Standards",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "other relevant standards and technical documents",
+      "normalized": "other relevant standards and technical documents",
+      "quote": "The technical requirements of equipment meeting these safety practices are specified in IEC Standards, UAE Standards or other relevant standards and technical documents.",
+      "confidence": 0.7
+    }
+  ],
+  "cross_references": [
+    {
+      "text": "Annex I",
+      "scope": "internal",
+      "target_document": "Requirements for Registration of Low Voltage Equipment",
+      "target_clause_id": "",
+      "quote": "The principal elements of safety objectives that the electrical equipment must meet are listed in Annex I.",
+      "confidence": 0.9
+    }
+  ]
+}

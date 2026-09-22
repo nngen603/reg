@@ -1,0 +1,83 @@
+{
+  "clause_types": [
+    "scope",
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "United Arab Emirates",
+      "modality": "shall",
+      "action": "take all appropriate measures to ensure that electrical equipment may be placed on the market or put into service only if, having been constructed in accordance with good engineering practices in safety matters prevailing in the International Community, it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made",
+      "condition": "",
+      "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical equipment may be placed on the market or put into service only if, having been constructed in accordance with good engineering practices in safety matters prevailing in the International Community, it does not endanger the safety of persons, domestic animals or property when properly installed and maintained and used in applications for which it was made.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "",
+      "modality": "must",
+      "action": "meet the essential requirements of the Emirate Conformity Assessment Scheme rules",
+      "condition": "Before being placed on the market or put into service",
+      "quote": "These provisions constitute the essential requirements of the Emirate Conformity Assessment Scheme rules. Before being placed on the market or put into service, the electrical equipment must meet these requirements.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "United Arab Emirates",
+      "normalized": "United Arab Emirates",
+      "quote": "The United Arab Emirates shall take all appropriate measures...",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "electrical equipment",
+      "normalized": "electrical equipment",
+      "quote": "electrical equipment may be placed on the market or put into service...",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "domestic animals",
+      "normalized": "domestic animals",
+      "quote": "it does not endanger the safety of persons, domestic animals or property...",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "persons",
+      "normalized": "persons",
+      "quote": "it does not endanger the safety of persons, domestic animals or property...",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "property",
+      "normalized": "property",
+      "quote": "it does not endanger the safety of persons, domestic animals or property...",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "good engineering practices in safety matters",
+      "normalized": "good engineering practices in safety matters",
+      "quote": "constructed in accordance with good engineering practices in safety matters...",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "International Community",
+      "normalized": "International Community",
+      "quote": "prevailing in the International Community...",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "Emirate Conformity Assessment Scheme rules",
+      "normalized": "Emirate Conformity Assessment Scheme rules",
+      "quote": "These provisions constitute the essential requirements of the Emirate Conformity Assessment Scheme rules.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

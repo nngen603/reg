@@ -1,0 +1,34 @@
+{
+  "_comment": [
+    "Hand-labelled gold for section 5 (definitions) of CARL-01.",
+    "Labelled by reading the source PDF, not by copying pipeline output.",
+    "About a dozen items. That is far too few to make a quality claim -- it is",
+    "here to prove the harness computes precision and recall correctly. The",
+    "production equivalent is a few hundred documents labelled by compliance",
+    "analysts against a written guide, with two analysts on the same sample.",
+    "See section 10.2 of the plan."
+  ],
+  "document_id": "CARL-01",
+  "scope": "clauses 5.1 through 5.10",
+  "entities": [
+    {"clause_id": "5.1",  "type": "organisation",    "text": "ESMA"},
+    {"clause_id": "5.1",  "type": "organisation",    "text": "Emirates Authority for Standardization and Metrology"},
+    {"clause_id": "5.1",  "type": "location",        "text": "UAE"},
+    {"clause_id": "5.1",  "type": "legal_reference", "text": "Federal Law No. 28"},
+    {"clause_id": "5.3",  "type": "role",            "text": "manufacturer"},
+    {"clause_id": "5.3",  "type": "role",            "text": "trader"},
+    {"clause_id": "5.5",  "type": "organisation",    "text": "ESMA"},
+    {"clause_id": "5.5",  "type": "location",        "text": "UAE"},
+    {"clause_id": "5.9",  "type": "organisation",    "text": "ESMA"},
+    {"clause_id": "5.10", "type": "organisation",    "text": "ESMA"}
+  ],
+  "cross_references": [
+    {"clause_id": "5.2", "scope": "internal", "target_clause_id": "3.1"}
+  ],
+  "must_be_empty": {
+    "_comment": "Abstention. Section 5 defines terms; it contains no money and no calendar dates.",
+    "monetary_threshold": true,
+    "date": true,
+    "individual": true
+  }
+}

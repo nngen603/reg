@@ -1,0 +1,16 @@
+{
+  "clause_types": [
+    "scope"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Products Covered by this Specific Requirement",
+      "normalized": "Low Voltage Equipment (LVE)",
+      "quote": "3.1 Products Covered by this Specific Requirement:",
+      "confidence": 0.9
+    }
+  ],
+  "cross_references": []
+}

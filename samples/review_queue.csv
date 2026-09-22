@@ -1,0 +1,21 @@
+item_id,impact,clause_id,kind,type,score,agreement,grounded,match,judge_priority,reasons,quote
+CARL-01:10.2:06391ff5c3a2,high,10.2,obligation,obligation,0.494,0.0,True,exact,,models_disagree; high_impact_requires_full_agreement; high_impact_type,Appropriate action shall then be taken by both ESMA and the
+CARL-01:10.4:cb92013d506e,high,10.4,obligation,obligation,0.494,0.0,True,exact,,models_disagree; high_impact_requires_full_agreement; high_impact_type,The result of test shall be the basis whether to
+CARL-01:10.5:00ea68f7aee3,high,10.5,obligation,obligation,0.494,0.0,True,exact,,models_disagree; high_impact_requires_full_agreement; high_impact_type,The factory inspection shall include amongst other the
+CARL-01:11.4:9dc7920e40e0,high,11.4,obligation,obligation,0.494,0.0,True,exact,,models_disagree; high_impact_requires_full_agreement; high_impact_type,registration shall be required a month before the expiration of the
+CARL-01:11.4:5f353d248b59,high,11.4,entity,time_period,0.940,1.0,True,exact,,uses_disputed_term:ECAS,11.4 ECAS Registration Certificate shall be valid for one year.
+CARL-01:10.2:f7e8de3276ff,high,10.2,obligation,obligation,0.944,1.0,True,exact,,uses_disputed_term:ECAS,10.2 Consignment without the ECAS Registration Certificate shall be held.
+CARL-01:10.2:94c62a2da95d,high,10.2,obligation,obligation,0.944,1.0,True,exact,,uses_disputed_term:ECAS,Customs authority shall coordinate with ESMA whenever a consignment without ECAS
+CARL-01:11.4:415dd8d53727,high,11.4,obligation,obligation,0.944,1.0,True,exact,,uses_disputed_term:ECAS,11.4 ECAS Registration Certificate shall be valid for one year.
+CARL-01:2:8d7d01725995,medium,2,obligation,obligation,0.494,0.0,True,exact,,models_disagree,equipment must meet:
+CARL-01:2.1:211764233b7a,medium,2.1,obligation,obligation,0.494,0.0,True,exact,,models_disagree,equipment must meet are listed in Annex I.
+CARL-01:11.3:4ad6f2dc4df1,medium,11.3,obligation,obligation,0.494,0.0,True,exact,,models_disagree,nor to use it in such a manner that ESMA may consider misleading.
+CARL-01:9.2:be83a27f5e3a,medium,9.2,obligation,obligation,0.769,1.0,True,exact,,validator_failed:has_action,"requirements, the client needs to rectify the observed non-compliances and can"
+CARL-01:8.1:bbd64bfee4cb,medium,8.1,cross_reference,cross_reference,0.936,1.0,True,exact,,uses_disputed_term:ECAS,"8.1 Upon the acceptance of the Application, Product shall be evaluated according to a relevant conformity assessment scheme which is written in clause no. 6 of ECAS General Require"
+CARL-01:8.1:0f544a725228,medium,8.1,entity,legal_reference,0.940,1.0,True,exact,,uses_disputed_term:ECAS,ECAS General Requirements.
+CARL-01:7.1.1:c1c0d6f778ae,medium,7.1.1,obligation,obligation,0.944,1.0,True,exact,,uses_disputed_term:ECAS,7.1.1 Manufacturers / Traders shall submit a filled ECAS application form together
+CARL-01:9.3:5387bcd1316f,medium,9.3,obligation,obligation,0.944,1.0,True,exact,,uses_disputed_term:ECAS,9.3 An ECAS Registration Certificate shall be issued to the product upon the
+CARL-01:11.3:1c6c10faf8f4,medium,11.3,obligation,obligation,0.944,1.0,True,exact,,uses_disputed_term:ECAS,11.3 The ECAS Registration Certificate shall be used only for the registered
+CARL-01:7.1.1:a5341ae67b39,low,7.1.1,entity,role,0.940,1.0,True,exact,,uses_disputed_term:ECAS,7.1.1 Manufacturers / Traders shall submit a filled ECAS application form together
+CARL-01:7.1.1:53efe7ea5076,low,7.1.1,entity,role,0.940,1.0,True,exact,,uses_disputed_term:ECAS,7.1.1 Manufacturers / Traders shall submit a filled ECAS application form together
+CARL-01:10.2:6b172de87c1b,low,10.2,entity,organisation,0.940,1.0,True,exact,,uses_disputed_term:ECAS,Customs authority shall coordinate with ESMA whenever a consignment without ECAS

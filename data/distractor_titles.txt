@@ -1,0 +1,210 @@
+# Distractor catalogue entries for reference-resolution tests.
+# One title per line: every 4th filename (sorted) from the noisy_data folder,
+# a pile of 820 unrelated computer-science and systems documents.
+# They are noise documents: realistic titles
+# that must never be returned as the target of a regulatory reference.
+100G Networking Technology Overview - Slides - Toronto (August 2016)
+1992 - An Optimal Algorithm for Generating Minimal Perfect Hash Functions (CHM92) (10.1.1.51.5566)
+2006 - An Approach for Minimal Perfect Hash Functions for Very Large Databases (tr06)
+2014 - Monotone Minimal Perfect Hashing - Searching a Sorted Table with O(1) Accesses
+5-Level Paging and 5-Level EPT - Intel - Revision 1.1 (May, 2017)
+A Course in Machine Learning (ciml-v0_9-all)
+A Family of Perfect Hashing Methods - 1996 (TR0242)
+A First Encounter with Machine Learning - 2011 (IntroMLBook)
+A Little Journey Inside Windows Memory
+A Method for the Construction of Minimum-Redundancy Codes - Huffman (1952)
+A Novel Hybrid Quicksort Algorithm Vectorized using AVX-512 on Intel Skylake - 2017 (Paper_44-A_Novel_Hybrid_Quicksort_Algorithm_Vectorized)
+A Proposal for Hardware Assisted Arithmetic Overflow Detection for Array and Bitfield Operations (LazyOverflowDetect_Final)
+A Study of Wheat and Chaff in Source Code (1502.01410v1)
+A Trip Through The Graphics Pipeline - Part 13 - Compute Shaders (2011)
+Abusing Mach on Mac OS X - May, 2006 (uninformed_v4a3)
+Adding Lock Elision to Linux - Slides (2012)
+Affinity Accept - Improving Network Connection Locality on Multicore Systems
+Agner Fog - Instruction Tables (2018-04-09)
+AMD - AMD64 Archictecture Programmer's Manual - Volume 4 - 128-bit and 256-bit Media Instructions - Rev 3.23 - Feb 2019 (26568)
+AMD - Preliminary Processor Programming Reference (PPR) for AMD Family 17h Models 00h-0Fh Processors - Rev 1.14 - April 15th, 2017 (54945)
+AMD64 Architecture Programmer's Manual - Volume 5 - 64-Bit Media and x87 Floating-point Instructions (26569, r3.12, Mar-2012)
+An In-Depth Analysis of Disassembly on Full-Scale x86-x64 Binaries - 2016 (sec16_paper_andriesse)
+An Overview of Linux Kernel Locking Improvements (August 2014)
+Analyzing Runtime and Size Complexity of Integer Programs - Microsoft Research (2016)
+ARM - Instruction Set Quick Reference Card (QRC0001_UAL.)pdf
+Aspects Related to Data Access and Transfer in CUDA - Slides - 2014 (TR-2014-09)
+AutoML - Chapter 01 - Hyperparameter Optimization (2018)
+Backward Search FM-Index (Full-text Index in a Minute Space) - Slides
+BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding (2018)
+Biased Reference Counting - Minimizing Atomic Operations in Garbage Collection - 2018 (3243176.3243195)
+Bitmap Graphics and Bitblit - Course Notes - SIGGRAPH 1984 (pike84bitblt)
+BitPath - Label Order Constrained Reachability Queries over Large Graphs - 1203.2886 (13th March, 2012)
+Broadword Implementation of Parenthesis Queries
+Bypass Control Flow Guard Comprehensively - Slides (2015)
+C++20 Reference Card - 29th Jan 2020
+Calculus for Mathematicians, Computer Scientists, and Physists
+CASEVision - ClearCase Administration Guide (007-1774-020)
+ClearCase Administrator's Guide (7165_2167_cc_proj.admin)
+Comparative Performance of Memory Reclamation Strategies for Lock-Free and Concurrently-Readable Data Structures
+Compiler Internals - Recon 2012 - Skochinsky
+Compressed Inverted Indexes - Slides (2010)
+Concurrent Hash Tables - Fast and General - ACM - 2019 (3309206)
+Constraint Propagation Algorithms for Temporal Reasoning - A Revised Report (vilain-kautz-book)
+COZ - Finding Code that Counts with Causal Profiling - 2015 (090-curtsinger)
+CS195V Brown - Week 11 - CUDA Part 2 - Slides
+CS195V Brown - Week 9 - GPU Architecture and Other Shading Languages - Slides
+CUDA - CSE 591 - GPU Programming - Using CUDA in Practice (Slides)
+CUDA Debugging with Command Line Tools - 2014 (S4578)
+CUDA Training Series - 11 - CUDA Multi-Process Service (2021)
+Dapper - A Large-Scale Distributed Systems Tracing Infrastructure (36356)
+Data Compression Techniques - Lecture 5 - Adaptive Prefix-Free Coding - University of Helsinky - Slides (2015)
+Data-Parallel Hashing Techniques for GPU Architectures - 11 Jul 2018 (1807.04345)
+Deep Residual Learning for Image Recognition (1512.03385v1)
+Demystifying Tensor Cores to Optimize Half-Precision Matrix Multiply (2020)
+Digital FX32 - Running 32-bit x86 Applications on Alpha NT
+Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking - 2018 (1804.06826)
+Doxygen Quick Reference
+Efficient Computation of Binomial Coefficients Using Splay Trees - 2016 (10.11648.j.ijdst.20160201.14)
+Efficient Implementation of Lazy Suffix Trees (gie-kur-sto-2003)
+Efficient IO with io_uring
+Efficient String Matching - An Aid to Bibliographic Search - Aho-Corasick (1975)
+Enhancing Comprehension and Navigation in Jupyter Notebooks with Static Analysis - 2023 (2301.04419)
+Evaluation of Parallel Design Patterns for Message Processing Systems on Embedded Multicore Systems
+Exploration by Random Network Distillation (1810.12894v1)
+Extra 300 - Pilot's Operating Handbook (20th Sept, 2009)
+FAST - Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs
+Fast Deterministic Selection - Andrei Alexandrescu - June 2016 (1606.00484v1)
+Fast Prefix Search in Little Space, with Applications
+Fast Splittable Pseudorandom Number Generators (oopsla14)
+Fibre Channel Reference Card
+FlashAttention-3 - Fast and Accurate Attention with Asynchrony and Low-precision
+Foundations of Databases
+Gazing Beyond Reflection - CppCon2024 - Deck
+Generalized Histogram Algorithms for CUDA GPUs - Slides - 2012 (histogram_para2012)
+Git Magic
+GPT-4 System Card
+GPU Random Numbers via the Tiny Encryption Algorithm (2010)
+Grand Central Dispatch - FreeBSD Dev Summit (18 Sep 2009)
+GTC 2010 (Part 1) - High Productivity Development
+H2O - The Opytimized HTTP Server (Kazuho Oku, 2014)
+Harnessing Intel Processor Trace on Windows for Vulnerability Discovery - D1T1 - Richard Johnson - Slides (2017)
+Hashcash - A Denial of Service Counter-Measure (1st August, 2002)
+Heapy - A Memory Profiler and Debugger for Python - 2006 (heapy-thesis)
+Hidden Markov Model
+Highway - Intro
+How to miscompile programs with benign data races (Boehm)
+How To Write Shared Libraries - v4.1.2 (Drepper, 2001)
+Hypergraph-Based Anomaly Detection in Very Large Networks - 2007 (silva_willett_tpami07)
+Improved Division by Invariant Integers
+Index Internals - Rebuilding the Truth
+Inside the Python GIL - Dave Beazley (2009)
+Intel - Cache Allocation Technology - Whitepaper (2015)
+Intel 64 and IA-32 Architectures Performance Monitoring Events - Revision 1.0 - December 2017 (335279-001)
+Intel Architecture - Instruction Set Extensions and Future Features - Programming Reference (January 2018)
+Intel Compiler Features + Performance Tips - Slides (2015) (IntelCompilerNERSC.201505013)
+Intel SIMD Architecture - Yung-Yu - UCONN (2007)
+Intel Xeon Processor E7 Family - Uncore Performance Monitoring - Programming Guide - April 2011 (325294-001)
+Introduction to DPDK - Slides (2015)
+Introduction to Probability and Statistics with R (IPSUR)
+IO is Faster Than the CPU - Let's Partition Resources and Eliminate (Most) OS Abstractions (parakernel-hotos19)
+Jeanne D'Arc Skill-binding Cheatsheet
+Just-in-Time Static Type Checking for Dynamic Languages (1604.03641v1)
+Kernel Pool Exploitation on Windows 7 (BlackHat_DC_2011_Mandt_kernelpool-wp)
+Language Models are Unsupervised Multitask Learners
+Learning Representations by Back-Propagating Errors (1986)
+Less Hashing, Same Performance - Building a Better Bloom Filter - 2008 (10.1.1.152.579)
+Linear Algebra Abridged - Sheldon Axler (13th March, 2016)
+Linux Productivity Tools - Slides - 2019 (lisa19_maheshwari)
+Lockless Programming - GDC 2009 - Slides (Bruce Dawson)
+Long Short-Term Memory (1997)
+Lynx - Using OS and Hardware Support for Fast Fine-Grained Inter-Core Communication (mitropoulou16-ics)
+Managing the Development of Large Software Systems - 1970 (waterfall)
+Massively-Parallel Similarity Join, Edge-Isoperimetry, and Distance Correlations on the Hypercube - 15th Nov 2016 (1611.04999)
+Maximizing GPU Throughput Across Multiple Streams - Tips and Tricks - Slides (s7393-chuck-seberino-maximizing-gpu)
+Mellanox ConnectX-2 10GbE Cards - Product Data Sheet
+Memory-Efficient Search Trees for Database Management Systems - Feb 2020 - Thesis (CMU-CS-20-101)
+Microsoft Portable Executable and Common Object File Format Specification - Revision 8.3 (6th Feb, 2013)
+Minimal Perfect Hash Functions Made Simple - 1980 (p17-cichelli)
+MISTRAL - Processing Relational Queries Using a Multidimensional Access Method - 2000 - Slides and Comments
+MonetDB-X100 - Hyper-Pipelining Query Execution (CIDR 2005 P19)
+MSDN - Multithreading for Rookies (September 24, 1993)
+Multidigit Multiplication for Mathematicians (2001)
+Neural Word Embedding as Implicit Matrix Factorization (5477-neural-word-embedding-as-implicit-matrix-factorization)
+NT Insider - 2017-01
+NumPy Binning Tutorial
+NVIDIA - GeForce GTX 1080 Whitepaper - Gaming Perfected
+NVIDIA cuFile API Reference (Oct 2022)
+ObCaptureObjectName
+On the Data Access Issue (Or Why CPUs Are Starving) - EuroSciPy 2009
+On the Performance of Bitmap Indices for High Cardinality Attributes - 2004 (RS1P2)
+On-the-Fly Garbage Collection - An Exercise in Cooperation - Dijkstra (1978)
+Optimization Techniques for GPU Programming (3570638)
+Optimizing synchronization primitives in Wine - Slides (lpc2023)
+Oracle - Multitenant Databases (Arup Nanda)
+Oracle 11g - Advanced Compression Whitepaper (Jan 2012)
+Oral History of David Cutler - Computer History Museum - Feb 25 2016 (102717163-05-01-acc)
+Outlier Detection (2005)
+P - Tutorial
+Parallel and External-Memory Construction of Minimal Perfect Hash Functions with PTHash - 4 Jun 2021 (2106.02350)
+Parallel Depth-First Search for Directed Acyclic Graphs - 2018
+Parallelism in Randomized Incremental Algorithms (BGSS16)
+PE File Structure
+Perfect Hashing for Data Management Applications - 2007 (0702159)
+Performance Evaluation of Concurrent Lock-free Data Structures on GPUs - Slides (2012)
+Pin - Building Customized Program Analysis Tools with Dynamic Instrumentation (2005)
+Portable versus Open Instruction Set Architectures - 2016 (ieeemicro16_card_isa)
+Predicate Transfer - Efficient Pre-Filtering on Multi-Join Queries - 2024 (p22-yang)
+pre-print-oopsla16
+Proactor - An Object Behavioral Pattern for Demultiplexing and Dispatching Handlers for Asynchronous Events
+Program Analysis with PREfast and SAL - Erik Poll - Slides (3_StaticAnalysisPREfast)
+Programming with the x87 Floating Point Unit - Intel
+Pseudo-Random Number Generators for Vector Processors and Multicore Processors - Agner Fog (2015)
+Pythran - Enabling Static Optimization of Scientific Python Programs
+Random Number Generation on GPUs - Slides (7_IstvanKiss)
+Reconsidering Custom Memory Allocation (berger-oopsla2002)
+Reflective DLL Injection v1.0 - Stephen Fewer (31st October 2008)
+Relative Suffix Trees - 15th Dec, 2017 (1508.02550)
+Rewriting History - USC FBE Finance Seminar - (F_2-15-07_MALLOY-Anonymous)
+RTop-K - Ultra-Fast Row-wise Top-K Selection for Neural Network Acceleration on GPUs (2025)
+Scaling Address Space Operations on Linux with TSX (2011)
+Scrambled Linear Pseudorandom Number Generators
+Semantic Patches - Documenting and Automating Collateral Evolutions in Linux Device Drivers (ols07-padioleau)
+Setting Up a Production Monitoring and Diagnostic Environment - Slides (SELA)
+Simple Image File Formats - PPM Format
+Software Tracing - Slides - Microsoft 2003
+Solaris Internals - Core Kernel Architecture
+Spin-Based Reader-Writer Synchronization for Multiprocessor Real-Time Systems_
+Storing a Sparse Table with O(1) Worst Case Access Time - 1984 (fks-perfecthash)
+Streaming Store Instructions in the Intel Xeon Phi coprocessor - Slides (2012)
+System Management BIOS (SMBIOS) Reference 5 Specification v3.2.0 (DSP0134_3.2.0)
+TensorFlow - Large-Scale Machine Learning on Heterogeneous Distributed Systems (Nov 9th, 2015)
+The Burrows-Wheeler Algorithm - Daniel Schiller (August 5th, 2012)
+The Dark Side of Winsock (DC_13-Levin)
+The Design and Implementation of Modern Column-Oriented Database Systems (abadi-column-stores)
+The Forgotten Interface - Windows Named Pipes - Gil Cohen - Slides (2017)
+The Linux Kernel Hidden Inside Windows 10 - Alex Ionescu - Slides - Black Hat 2016
+The Matrix Calculus You Need For Deep Learning - 2018 (1802.01528)
+The NT Insider (2017-01)
+The Principles of Deep Learning Theory (2106.10165v2)
+The ReactOS Project - An Open Source OS Platform for Learning - Slides - Ionescu (2007)
+The Robust Beauty of Improper Linear Models in Decision Making - July 1979
+The Ubiquitous B-Tree - 1979 (comer-b-tree)
+Things You Didn't Known About Portable Executable File Format (PECOFF) - Slides - 2011 (BH_US_11_VuksanPericin_PECOFF_Slides)
+Thrust - A Productivity-Oriented Library for CUDA
+Tokutek - Fractal Tree Technology and the Art of Indexing
+Towards a New File Format for Big Data - SIMD-Friendly Composable Compression (2020-AzimAfroozeh)
+Tracing Privileged Memory Accesses to Discover Software Vulnerabilities (2015)
+Trie Memtables in Cassandra - 2022 (p3359-lambov)
+Tru64 - Assembly (ARH9LCTE)
+True IOMMU Protection from DMA Attacks - When Copy is Faster than Zero Copy - 2016 (cim-asplos-2016)
+Understanding and Improving Bloom Filter Configuration for Lazy Address-set Disambiguation (2011)
+Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation (2012)
+UNIX Time Sharing System - UNIX Programmer's Manual - Seventh Edition, Volume 1A - January, 1979 (v7vol1a)
+User Mode Memory Page Management
+Vectorized Bloom Filters for Advanced SIMD Processors - Columbia - Slides
+Visual Studio, Microsoft Portable Executable and Common Object File Format Specification - Revision 9.3 - 29th Dec, 2015 (pecoff_v93)
+Warp Shuffles, and Reduction and Scan Operations - CUDA - Slides
+What Happens During a Join - Dissecting CPU and Memory Optimization Effects (P339)
+WinDbg Cheat Sheet
+Windows Commands
+Windows Kernel Internals - Cache Manager
+Windows Kernel Internals - Object Manager
+Witnesses for Non-Satisfiability of Dense Random 3CNF Formulas (May 9th, 2006)
+Writing R Extensions
+xv6 - a simple, Unix-like teaching operating system (Aug 28 2012, draft 7)

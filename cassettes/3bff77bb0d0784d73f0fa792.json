@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "administrative"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "Conformity Affairs Department",
+      "normalized": "Conformity Affairs Department",
+      "quote": "Conformity Affairs Department",
+      "confidence": 0.99
+    },
+    {
+      "type": "organisation",
+      "text": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "normalized": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "quote": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "confidence": 0.99
+    },
+    {
+      "type": "location",
+      "text": "Dubai – UAE",
+      "normalized": "Dubai, UAE",
+      "quote": "P.O.Box 48666 – Dubai – UAE",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

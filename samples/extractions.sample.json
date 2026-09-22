@@ -1,0 +1,2630 @@
+{
+  "document": {
+    "id": "CARL-01",
+    "title": "Requirements for Registration of Low Voltage Equipment",
+    "issuer": "ESMA",
+    "jurisdiction": "AE",
+    "revision": "4",
+    "review_date": "2014-03-01",
+    "effective_date": null,
+    "language": "en",
+    "source_hash": "d1be194cb28cbeed",
+    "page_count": 8,
+    "pipeline_version": "0.2.0"
+  },
+  "clauses": [
+    {
+      "id": "1",
+      "parent": null,
+      "path": [
+        "1"
+      ],
+      "heading": "INTRODUCTION:",
+      "text": "1. INTRODUCTION:\nU U\nThis document defines the Criteria for the product registration under the Emirates\nConformity Assessment Scheme (ECAS) being implemented by the Emirates Authority\nfor Standardization and Metrology (ESMA). The requirements defined in this document\nare issued for the information, guidance and compliance of Manufacturers and Traders\nintending to promote and sell their products in the United Arab Emirates.",
+      "page_start": 2,
+      "page_end": 2,
+      "char_start": 93,
+      "char_end": 519,
+      "clause_types": []
+    },
+    {
+      "id": "2",
+      "parent": null,
+      "path": [
+        "2"
+      ],
+      "heading": "OBJECTIVE:",
+      "text": "2. OBJECTIVE:\nThe United Arab Emirates shall take all appropriate measures to ensure that electrical\nequipment may be placed on the market or put into service only if, having been constructed\nin accordance with good engineering practices in safety matters prevailing in the\nInternational Community, it does not endanger the safety of persons, domestic animals or\nproperty when properly installed and maintained and used in applications for which it was\nmade.\nThese provisions constitute the essential requirements of the Emirate Conformity\nAssessment Scheme rules. Before being placed on the market or put into service, the\nelectrical equipment must meet these requirements. This means that the electrical\nequipment must meet:",
+      "page_start": 2,
+      "page_end": 2,
+      "char_start": 520,
+      "char_end": 1246,
+      "clause_types": []
+    },
+    {
+      "id": "2.1",
+      "parent": "2",
+      "path": [
+        "2",
+        "1"
+      ],
+      "heading": "The technical requirements:",
+      "text": "2.1 The technical requirements:\nThe electrical equipment shall be so constructed in accordance with good engineering\npractices concerning safety. The technical requirements of equipment meeting these safety\npractices are specified in IEC Standards, UAE Standards or other relevant standards and\ntechnical documents. The principal elements of safety objectives that the electrical\nequipment must meet are listed in Annex I.",
+      "page_start": 2,
+      "page_end": 2,
+      "char_start": 1247,
+      "char_end": 1669,
+      "clause_types": []
+    },
+    {
+      "id": "2.2",
+      "parent": "2",
+      "path": [
+        "2",
+        "2"
+      ],
+      "heading": "The Administrative requirements:",
+      "text": "2.2 The Administrative requirements:\nCompulsory procedures and documents implemented by the manufacturer or his authorized\nrepresentative are imposed by ESMA (e.g. conformity assessment procedures, marking on\nthe product, technical files, declaration of conformity, and instructions for use if relevant).",
+      "page_start": 2,
+      "page_end": 2,
+      "char_start": 1670,
+      "char_end": 1974,
+      "clause_types": []
+    },
+    {
+      "id": "3",
+      "parent": null,
+      "path": [
+        "3"
+      ],
+      "heading": "SCOPE:",
+      "text": "3. SCOPE:",
+      "page_start": 2,
+      "page_end": 2,
+      "char_start": 1975,
+      "char_end": 1984,
+      "clause_types": []
+    },
+    {
+      "id": "3.1",
+      "parent": "3",
+      "path": [
+        "3",
+        "1"
+      ],
+      "heading": "Products Covered by this Specific Requirement:",
+      "text": "3.1 Products Covered by this Specific Requirement:",
+      "page_start": 2,
+      "page_end": 2,
+      "char_start": 1985,
+      "char_end": 2035,
+      "clause_types": []
+    },
+    {
+      "id": "3.1.1",
+      "parent": "3.1",
+      "path": [
+        "3",
+        "1",
+        "1"
+      ],
+      "heading": "This document prescribes the requirement for the safety of electrical equipment",
+      "text": "3.1.1 This document prescribes the requirement for the safety of electrical equipment\ndesignation for used with input voltage rating between 50 and 1000 volts for alternating\ncurrent and between 75 volts to 1500 volts for direct current. The electrical equipment\nunder this scope is called “Low Voltage Equipment.”",
+      "page_start": 2,
+      "page_end": 3,
+      "char_start": 2036,
+      "char_end": 2350,
+      "clause_types": []
+    },
+    {
+      "id": "3.1.2",
+      "parent": "3.1",
+      "path": [
+        "3",
+        "1",
+        "2"
+      ],
+      "heading": "This document shall not apply to the products excluded by UAE / IEC 60335-1. :",
+      "text": "3.1.2 This document shall not apply to the products excluded by UAE / IEC 60335-1. :",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 2351,
+      "char_end": 2435,
+      "clause_types": []
+    },
+    {
+      "id": "4",
+      "parent": null,
+      "path": [
+        "4"
+      ],
+      "heading": "APPLICABLE STANDARDS AND NORMATIVE REFERENCES",
+      "text": "4. APPLICABLE STANDARDS AND NORMATIVE REFERENCES\n# UAE STANDARD EQUIVALENT TITLE OF STANDARD\nGULF/INTERNATION\nAL STANDARD\n1 UAE / IEC 60335-1: 2007 IEC 60335-1 : 2006 Household and similar\nelectrical appliances –\nSafety –\nPart 1: General\nrequirements\n2 UAE / IEC 60335 – Part IEC 60335- Part 2’s Refer to Annex 1\n2’s\n3 IEC 60884-1: Extension cords",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 2436,
+      "char_end": 2783,
+      "clause_types": []
+    },
+    {
+      "id": "5",
+      "parent": null,
+      "path": [
+        "5"
+      ],
+      "heading": "DEFINITION OF TERMS",
+      "text": "5. DEFINITION OF TERMS",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 2784,
+      "char_end": 2806,
+      "clause_types": []
+    },
+    {
+      "id": "5.1",
+      "parent": "5",
+      "path": [
+        "5",
+        "1"
+      ],
+      "heading": "ESMA – The Emirates Authority for Standardization and Metrology. The UAE’s",
+      "text": "5.1 ESMA – The Emirates Authority for Standardization and Metrology. The UAE’s\nStandards body as mandated by Federal Law No. 28. It is the Competent\ngovernment entity responsible for implementing this Specific Requirement for low\nvoltage appliances.",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 2807,
+      "char_end": 3056,
+      "clause_types": []
+    },
+    {
+      "id": "5.2",
+      "parent": "5",
+      "path": [
+        "5",
+        "2"
+      ],
+      "heading": "Low voltage equipment (LVE) also referred to as “Equipment”: All electrical or",
+      "text": "5.2 Low voltage equipment (LVE) also referred to as “Equipment”: All electrical or\nelectronic equipment including components, parts, finished products, systems and\ninstallations, with input voltage rating as indicated in item 3.1.",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 3057,
+      "char_end": 3287,
+      "clause_types": []
+    },
+    {
+      "id": "5.3",
+      "parent": "5",
+      "path": [
+        "5",
+        "3"
+      ],
+      "heading": "Approved Supplier – a manufacturer and/or trader responsible for the product",
+      "text": "5.3 Approved Supplier – a manufacturer and/or trader responsible for the product\ncovered by this Specific Requirement.",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 3288,
+      "char_end": 3406,
+      "clause_types": []
+    },
+    {
+      "id": "5.4",
+      "parent": "5",
+      "path": [
+        "5",
+        "4"
+      ],
+      "heading": "Conformity Assessment - any activity to determine directly or indirectly, that a",
+      "text": "5.4 Conformity Assessment - any activity to determine directly or indirectly, that a\nprocess, product or service meets relevant standards and fulfills relevant\nrequirements",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 3407,
+      "char_end": 3579,
+      "clause_types": []
+    },
+    {
+      "id": "5.5",
+      "parent": "5",
+      "path": [
+        "5",
+        "5"
+      ],
+      "heading": "ECAS Certificate of Conformity – a certificate of conformity issued to the",
+      "text": "5.5 ECAS Certificate of Conformity – a certificate of conformity issued to the\nproduct complying to a relevant UAE Standard/s or to any ESMA recognized\nNational/Regional and International Standards.",
+      "page_start": 3,
+      "page_end": 3,
+      "char_start": 3580,
+      "char_end": 3778,
+      "clause_types": []
+    },
+    {
+      "id": "5.6",
+      "parent": "5",
+      "path": [
+        "5",
+        "6"
+      ],
+      "heading": "ECAS – Emirates Conformity Assessment Systems",
+      "text": "5.6 ECAS – Emirates Conformity Assessment Systems",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 3779,
+      "char_end": 3828,
+      "clause_types": []
+    },
+    {
+      "id": "5.7",
+      "parent": "5",
+      "path": [
+        "5",
+        "7"
+      ],
+      "heading": "Specific Requirements - a document specifying the set of rules in order for a",
+      "text": "5.7 Specific Requirements - a document specifying the set of rules in order for a\nproduct to be registered under ECAS.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 3829,
+      "char_end": 3947,
+      "clause_types": []
+    },
+    {
+      "id": "5.8",
+      "parent": "5",
+      "path": [
+        "5",
+        "8"
+      ],
+      "heading": "Initial Testing - refers to the verification of product conformance to a specified",
+      "text": "5.8 Initial Testing - refers to the verification of product conformance to a specified\nProduct Standards and/or Specific Requirements prior to the registration of\nProduct.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 3948,
+      "char_end": 4119,
+      "clause_types": []
+    },
+    {
+      "id": "5.9",
+      "parent": "5",
+      "path": [
+        "5",
+        "9"
+      ],
+      "heading": "Recognized Conformity Assessment Body- a competent body recognized by",
+      "text": "5.9 Recognized Conformity Assessment Body- a competent body recognized by\nESMA to carry out factory inspection and/or testing of product.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4120,
+      "char_end": 4257,
+      "clause_types": []
+    },
+    {
+      "id": "5.10",
+      "parent": "5",
+      "path": [
+        "5",
+        "10"
+      ],
+      "heading": "Approved Standard – refers to a Product Standard approved by ESMA to be",
+      "text": "5.10 Approved Standard – refers to a Product Standard approved by ESMA to be\nused in verifying conformity of a product.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4258,
+      "char_end": 4377,
+      "clause_types": []
+    },
+    {
+      "id": "6",
+      "parent": null,
+      "path": [
+        "6"
+      ],
+      "heading": "REQUIREMENTS FOR CERTIFICATION",
+      "text": "6. REQUIREMENTS FOR CERTIFICATION",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4378,
+      "char_end": 4411,
+      "clause_types": []
+    },
+    {
+      "id": "6.1",
+      "parent": "6",
+      "path": [
+        "6",
+        "1"
+      ],
+      "heading": "Compliance of relevant components to be used in manufacturing electrical low",
+      "text": "6.1 Compliance of relevant components to be used in manufacturing electrical low\nvoltage equipment to relevant UAE / IEC Standard. Clients are required to submit\nManufacturer’s Declaration of Conformity and Test Report that to comply with\nthis requirement.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4412,
+      "char_end": 4668,
+      "clause_types": []
+    },
+    {
+      "id": "6.2",
+      "parent": "6",
+      "path": [
+        "6",
+        "2"
+      ],
+      "heading": "Manufacturer’s / Traders Declaration of Conformity",
+      "text": "6.2 Manufacturer’s / Traders Declaration of Conformity",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4669,
+      "char_end": 4723,
+      "clause_types": []
+    },
+    {
+      "id": "6.3",
+      "parent": "6",
+      "path": [
+        "6",
+        "3"
+      ],
+      "heading": "Compliance of the Product to the requirements of UAE Standards or its",
+      "text": "6.3 Compliance of the Product to the requirements of UAE Standards or its\nequivalent international standards.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4724,
+      "char_end": 4833,
+      "clause_types": []
+    },
+    {
+      "id": "6.4",
+      "parent": "6",
+      "path": [
+        "6",
+        "4"
+      ],
+      "heading": "Compliance of the equipment plugs to:",
+      "text": "6.4 Compliance of the equipment plugs to:",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4834,
+      "char_end": 4875,
+      "clause_types": []
+    },
+    {
+      "id": "6.4.1",
+      "parent": "6.4",
+      "path": [
+        "6",
+        "4",
+        "1"
+      ],
+      "heading": "BS 1363. Plugs with earth and fuse for Class I Appliances",
+      "text": "6.4.1 BS 1363. Plugs with earth and fuse for Class I Appliances",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4876,
+      "char_end": 4939,
+      "clause_types": []
+    },
+    {
+      "id": "6.4.2",
+      "parent": "6.4",
+      "path": [
+        "6",
+        "4",
+        "2"
+      ],
+      "heading": "BS 1363 Plugs with a dummy plastic earth pin for Class II Appliances",
+      "text": "6.4.2 BS 1363 Plugs with a dummy plastic earth pin for Class II Appliances",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 4940,
+      "char_end": 5014,
+      "clause_types": []
+    },
+    {
+      "id": "6.4.3",
+      "parent": "6.4",
+      "path": [
+        "6",
+        "4",
+        "3"
+      ],
+      "heading": "BS 546 Plug Configurations for 15 Ampere Appliances.",
+      "text": "6.4.3 BS 546 Plug Configurations for 15 Ampere Appliances.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 5015,
+      "char_end": 5073,
+      "clause_types": []
+    },
+    {
+      "id": "6.5",
+      "parent": "6",
+      "path": [
+        "6",
+        "5"
+      ],
+      "heading": "Users Manual in Arabic and English language.",
+      "text": "6.5 Users Manual in Arabic and English language.",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 5074,
+      "char_end": 5122,
+      "clause_types": []
+    },
+    {
+      "id": "6.6",
+      "parent": "6",
+      "path": [
+        "6",
+        "6"
+      ],
+      "heading": "Country of Origin marking on the product",
+      "text": "6.6 Country of Origin marking on the product",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 5123,
+      "char_end": 5167,
+      "clause_types": []
+    },
+    {
+      "id": "6.7",
+      "parent": "6",
+      "path": [
+        "6",
+        "7"
+      ],
+      "heading": "Where applicable, compliance of the product to Tropical Climatic Conditions",
+      "text": "6.7 Where applicable, compliance of the product to Tropical Climatic Conditions",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 5168,
+      "char_end": 5247,
+      "clause_types": []
+    },
+    {
+      "id": "7",
+      "parent": null,
+      "path": [
+        "7"
+      ],
+      "heading": "REGISTRATION PROCEDURE",
+      "text": "7. REGISTRATION PROCEDURE",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 5248,
+      "char_end": 5273,
+      "clause_types": []
+    },
+    {
+      "id": "7.1",
+      "parent": "7",
+      "path": [
+        "7",
+        "1"
+      ],
+      "heading": "Application Submission",
+      "text": "7.1 Application Submission",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start": 5274,
+      "char_end": 5300,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.1",
+      "parent": "7.1",
+      "path": [
+        "7",
+        "1",
+        "1"
+      ],
+      "heading": "Manufacturers / Traders shall submit a filled ECAS application form together",
+      "text": "7.1.1 Manufacturers / Traders shall submit a filled ECAS application form together\nwith the following:",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5301,
+      "char_end": 5403,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.1.1",
+      "parent": "7.1.1",
+      "path": [
+        "7",
+        "1",
+        "1",
+        "1"
+      ],
+      "heading": "Manufacturer’s / traders Declaration of Conformity for components and",
+      "text": "7.1.1.1 Manufacturer’s / traders Declaration of Conformity for components and\nproducts",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5404,
+      "char_end": 5490,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.1.2",
+      "parent": "7.1.1",
+      "path": [
+        "7",
+        "1",
+        "1",
+        "2"
+      ],
+      "heading": "Technical File or technical documentation",
+      "text": "7.1.1.2 Technical File or technical documentation",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5491,
+      "char_end": 5540,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.1.3",
+      "parent": "7.1.1",
+      "path": [
+        "7",
+        "1",
+        "1",
+        "3"
+      ],
+      "heading": "List of components used and their specifications.",
+      "text": "7.1.1.3 List of components used and their specifications.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5541,
+      "char_end": 5598,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.1.4",
+      "parent": "7.1.1",
+      "path": [
+        "7",
+        "1",
+        "1",
+        "4"
+      ],
+      "heading": "Test Reports for major components used.",
+      "text": "7.1.1.4 Test Reports for major components used.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5599,
+      "char_end": 5646,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.1.5",
+      "parent": "7.1.1",
+      "path": [
+        "7",
+        "1",
+        "1",
+        "5"
+      ],
+      "heading": "Valid Industry License",
+      "text": "7.1.1.5 Valid Industry License",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5647,
+      "char_end": 5677,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.1.6",
+      "parent": "7.1.1",
+      "path": [
+        "7",
+        "1",
+        "1",
+        "6"
+      ],
+      "heading": "Proof of Exclusive Distributorship from the manufacturer in case the applicant",
+      "text": "7.1.1.6 Proof of Exclusive Distributorship from the manufacturer in case the applicant\nis a trader or an agent.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5678,
+      "char_end": 5789,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.2",
+      "parent": "7.1",
+      "path": [
+        "7",
+        "1",
+        "2"
+      ],
+      "heading": "Payment of Applicable Fees",
+      "text": "7.1.2 Payment of Applicable Fees",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5790,
+      "char_end": 5822,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.3",
+      "parent": "7.1",
+      "path": [
+        "7",
+        "1",
+        "3"
+      ],
+      "heading": "Location Map of the Factory and/or warehouse where the product is stored.",
+      "text": "7.1.3 Location Map of the Factory and/or warehouse where the product is stored.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5823,
+      "char_end": 5902,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.4",
+      "parent": "7.1",
+      "path": [
+        "7",
+        "1",
+        "4"
+      ],
+      "heading": "Exclusive distributorship from the manufacturer for the trader.",
+      "text": "7.1.4 Exclusive distributorship from the manufacturer for the trader.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5903,
+      "char_end": 5972,
+      "clause_types": []
+    },
+    {
+      "id": "7.1.5",
+      "parent": "7.1",
+      "path": [
+        "7",
+        "1",
+        "5"
+      ],
+      "heading": "Product Samples",
+      "text": "7.1.5 Product Samples",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5973,
+      "char_end": 5994,
+      "clause_types": []
+    },
+    {
+      "id": "8",
+      "parent": null,
+      "path": [
+        "8"
+      ],
+      "heading": "CONFORMITY ASSESSMENT PROCEDURE",
+      "text": "8. CONFORMITY ASSESSMENT PROCEDURE",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 5995,
+      "char_end": 6029,
+      "clause_types": []
+    },
+    {
+      "id": "8.1",
+      "parent": "8",
+      "path": [
+        "8",
+        "1"
+      ],
+      "heading": "Upon the acceptance of the Application, Product shall be evaluated according to",
+      "text": "8.1 Upon the acceptance of the Application, Product shall be evaluated according to\na relevant conformity assessment scheme which is written in clause no. 6 of\nECAS General Requirements.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 6030,
+      "char_end": 6216,
+      "clause_types": []
+    },
+    {
+      "id": "8.2",
+      "parent": "8",
+      "path": [
+        "8",
+        "2"
+      ],
+      "heading": "Product shall be defined according and appropriate schemes shall be",
+      "text": "8.2 Product shall be defined according and appropriate schemes shall be\nimplemented based upon the risk brought about by the product.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 6217,
+      "char_end": 6350,
+      "clause_types": []
+    },
+    {
+      "id": "8.3",
+      "parent": "8",
+      "path": [
+        "8",
+        "3"
+      ],
+      "heading": "Samples shall be collected by ESMA for testing as required by relevant",
+      "text": "8.3 Samples shall be collected by ESMA for testing as required by relevant\nstandards mentioned in clause 4 of this document.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 6351,
+      "char_end": 6475,
+      "clause_types": []
+    },
+    {
+      "id": "8.4",
+      "parent": "8",
+      "path": [
+        "8",
+        "4"
+      ],
+      "heading": "Samples shall be tested by an ESMA recognized third party testing laboratory.",
+      "text": "8.4 Samples shall be tested by an ESMA recognized third party testing laboratory.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 6476,
+      "char_end": 6557,
+      "clause_types": []
+    },
+    {
+      "id": "8.5",
+      "parent": "8",
+      "path": [
+        "8",
+        "5"
+      ],
+      "heading": "Applicant shall bear all the cost related to the conformity assessment of the",
+      "text": "8.5 Applicant shall bear all the cost related to the conformity assessment of the\nproduct.",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 6558,
+      "char_end": 6648,
+      "clause_types": []
+    },
+    {
+      "id": "9",
+      "parent": null,
+      "path": [
+        "9"
+      ],
+      "heading": "REGISTRATION OF PRODUCT",
+      "text": "9. REGISTRATION OF PRODUCT",
+      "page_start": 5,
+      "page_end": 5,
+      "char_start": 6649,
+      "char_end": 6675,
+      "clause_types": []
+    },
+    {
+      "id": "9.1",
+      "parent": "9",
+      "path": [
+        "9",
+        "1"
+      ],
+      "heading": "Product shall be registered after a full confirmation that the product is complying",
+      "text": "9.1 Product shall be registered after a full confirmation that the product is complying\nwith the requirements of the relevant IEC or UAE Standard and by this Specific\nRequirement.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 6676,
+      "char_end": 6855,
+      "clause_types": []
+    },
+    {
+      "id": "9.2",
+      "parent": "9",
+      "path": [
+        "9",
+        "2"
+      ],
+      "heading": "Where the results of test showed that product is not complying with the",
+      "text": "9.2 Where the results of test showed that product is not complying with the\nrequirements, the client needs to rectify the observed non-compliances and can\nreapply once rectification is made.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 6856,
+      "char_end": 7046,
+      "clause_types": []
+    },
+    {
+      "id": "9.3",
+      "parent": "9",
+      "path": [
+        "9",
+        "3"
+      ],
+      "heading": "An ECAS Registration Certificate shall be issued to the product upon the",
+      "text": "9.3 An ECAS Registration Certificate shall be issued to the product upon the\nfulfillment of all the requirements.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 7047,
+      "char_end": 7160,
+      "clause_types": []
+    },
+    {
+      "id": "10",
+      "parent": null,
+      "path": [
+        "10"
+      ],
+      "heading": "INSPECTION AND MARKET MONITORING",
+      "text": "10 INSPECTION AND MARKET MONITORING",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 7161,
+      "char_end": 7196,
+      "clause_types": []
+    },
+    {
+      "id": "10.1",
+      "parent": "10",
+      "path": [
+        "10",
+        "1"
+      ],
+      "heading": "Low Voltage Electrical Equipment are being inspected at Port of Entry. Only",
+      "text": "10.1 Low Voltage Electrical Equipment are being inspected at Port of Entry. Only\nconsignments having valid ECAS Registration Certificates and valid ECAS Mark of\nConformity are allowed to enter the country.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 7197,
+      "char_end": 7402,
+      "clause_types": []
+    },
+    {
+      "id": "10.2",
+      "parent": "10",
+      "path": [
+        "10",
+        "2"
+      ],
+      "heading": "Consignment without the ECAS Registration Certificate shall be held. Ports and",
+      "text": "10.2 Consignment without the ECAS Registration Certificate shall be held. Ports and\nCustoms authority shall coordinate with ESMA whenever a consignment without ECAS\ncertificated is observed. Appropriate action shall then be taken by both ESMA and the\nPorts and Customs Authorities.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 7403,
+      "char_end": 7684,
+      "clause_types": []
+    },
+    {
+      "id": "10.3",
+      "parent": "10",
+      "path": [
+        "10",
+        "3"
+      ],
+      "heading": "Products manufactured in UAE are monitored in the factory, warehouses and in",
+      "text": "10.3 Products manufactured in UAE are monitored in the factory, warehouses and in\nretails shops. Products having ECAS Registration are allowed to be traded in the UAE.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 7685,
+      "char_end": 7852,
+      "clause_types": []
+    },
+    {
+      "id": "10.4",
+      "parent": "10",
+      "path": [
+        "10",
+        "4"
+      ],
+      "heading": "Registered products being delivered to UAE shall be inspected to ensure",
+      "text": "10.4 Registered products being delivered to UAE shall be inspected to ensure\ncontinuous compliance. ESMA reserves the right to inspect and conduct inspection of\nthe product being distributed in the market. ESMA shall conduct a regular monitoring of\nproduct where ESMA shall take samples either at the retail shops or the manufacturer’s\nwarehouse for independent testing. The result of test shall be the basis whether to\ncontinue or stop the registration of the product.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 7853,
+      "char_end": 8322,
+      "clause_types": []
+    },
+    {
+      "id": "10.5",
+      "parent": "10",
+      "path": [
+        "10",
+        "5"
+      ],
+      "heading": "ESMA also reserves the right to conduct at anytime factory inspection to ensure full",
+      "text": "10.5 ESMA also reserves the right to conduct at anytime factory inspection to ensure full\ncompliance of the product. The factory inspection shall include amongst other the\nprocess and product verification of the product and the manner in which the product are\ncarefully inspected and handled.",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 8323,
+      "char_end": 8615,
+      "clause_types": []
+    },
+    {
+      "id": "10.6",
+      "parent": "10",
+      "path": [
+        "10",
+        "6"
+      ],
+      "heading": "All fees related to market sampling and testing shall be paid by the manufacturer /",
+      "text": "10.6 All fees related to market sampling and testing shall be paid by the manufacturer /\nsupplier",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 8616,
+      "char_end": 8713,
+      "clause_types": []
+    },
+    {
+      "id": "11",
+      "parent": null,
+      "path": [
+        "11"
+      ],
+      "heading": "THE ECAS REGISTRATION CERTIFICATE",
+      "text": "11. THE ECAS REGISTRATION CERTIFICATE",
+      "page_start": 6,
+      "page_end": 6,
+      "char_start": 8714,
+      "char_end": 8751,
+      "clause_types": []
+    },
+    {
+      "id": "11.1",
+      "parent": "11",
+      "path": [
+        "11",
+        "1"
+      ],
+      "heading": "After obtaining the Registration Certificate, the supplier can use the",
+      "text": "11.1 After obtaining the Registration Certificate, the supplier can use the\ncertificate in clearing the registered products at the Ports and Customs\nAuthorities.",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 8752,
+      "char_end": 8913,
+      "clause_types": []
+    },
+    {
+      "id": "11.2",
+      "parent": "11",
+      "path": [
+        "11",
+        "2"
+      ],
+      "heading": "The supplier may also use the Certificate in trading their product as a",
+      "text": "11.2 The supplier may also use the Certificate in trading their product as a\nproof that the product has been approved by ESMA.",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 8914,
+      "char_end": 9040,
+      "clause_types": []
+    },
+    {
+      "id": "11.3",
+      "parent": "11",
+      "path": [
+        "11",
+        "3"
+      ],
+      "heading": "The ECAS Registration Certificate shall be used only for the registered",
+      "text": "11.3 The ECAS Registration Certificate shall be used only for the registered\nproduct. Care should be taken so as not to misused the certificate and\nnor to use it in such a manner that ESMA may consider misleading.",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 9041,
+      "char_end": 9254,
+      "clause_types": []
+    },
+    {
+      "id": "11.4",
+      "parent": "11",
+      "path": [
+        "11",
+        "4"
+      ],
+      "heading": "ECAS Registration Certificate shall be valid for one year. Renewal of",
+      "text": "11.4 ECAS Registration Certificate shall be valid for one year. Renewal of\nregistration shall be required a month before the expiration of the\nRegistration Certificate.",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 9255,
+      "char_end": 9423,
+      "clause_types": []
+    },
+    {
+      "id": "12",
+      "parent": null,
+      "path": [
+        "12"
+      ],
+      "heading": "LIABILITY AND DISCLAIMER",
+      "text": "12. LIABILITY AND DISCLAIMER",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 9424,
+      "char_end": 9452,
+      "clause_types": []
+    },
+    {
+      "id": "12.1",
+      "parent": "12",
+      "path": [
+        "12",
+        "1"
+      ],
+      "heading": "ESMA shall not be held responsible for any action (legal or otherwise)",
+      "text": "12.1 ESMA shall not be held responsible for any action (legal or otherwise)\nraise by any party against the manufacturers / suppliers on matters\nresulting from the implementation of ECAS for low voltage equipments",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 9453,
+      "char_end": 9665,
+      "clause_types": []
+    },
+    {
+      "id": "12.2",
+      "parent": "12",
+      "path": [
+        "12",
+        "2"
+      ],
+      "heading": "The manufacturer / supplier are ultimately responsible for ensuring",
+      "text": "12.2 The manufacturer / supplier are ultimately responsible for ensuring\nthat the product meets the requirements of other applicable regulations\nthat were not assessed during the process. This includes quality, safety,\nhealth and environmental regulations that are not necessarily covered\nby the relevant Standards and or the Specific Requirements.",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 9666,
+      "char_end": 10014,
+      "clause_types": []
+    },
+    {
+      "id": "12.3",
+      "parent": "12",
+      "path": [
+        "12",
+        "3"
+      ],
+      "heading": "ESMA maintains full confidentiality of all documents submitted by",
+      "text": "12.3 ESMA maintains full confidentiality of all documents submitted by\nthe client",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 10015,
+      "char_end": 10096,
+      "clause_types": []
+    },
+    {
+      "id": "FEES",
+      "parent": null,
+      "path": [
+        "FEES"
+      ],
+      "heading": "FEES",
+      "text": "FEES\na. Application for Registration\nb. Operational fees\nc. Certification Decision Fee",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start": 10097,
+      "char_end": 10183,
+      "clause_types": []
+    },
+    {
+      "id": "CONTACT",
+      "parent": null,
+      "path": [
+        "CONTACT"
+      ],
+      "heading": "For more information",
+      "text": "For more information\nPlease contact:\nConformity Affairs Department\nEmirates Authority for Standardization and Metrology (ESMA)\nP.O.Box 48666 – Dubai – UAE\nTel: +971 4 2944434\nFax: +971 42944428\nE-mail: conformity@esma.ae\n \nWeb :www.esma.ae",
+      "page_start": 7,
+      "page_end": 8,
+      "char_start": 10184,
+      "char_end": 10423,
+      "clause_types": []
+    },
+    {
+      "id": "ANNEX-1",
+      "parent": null,
+      "path": [
+        "ANNEX-1"
+      ],
+      "heading": "ANNEX 1. PRODUCTS COVERED BY THIS SPECIFIC REQUIREMENTS.",
+      "text": "ANNEX 1. PRODUCTS COVERED BY THIS SPECIFIC REQUIREMENTS.\nNo. PRODUCTS STANDARD/S\n1 Water Heater UAE.S / GSO/ IEC 60335-2-21: 2007\n2 Extension Cords and UAE.S / GSO / IEC 60884-1: 2007 and Part 2’s\nAdaptors\n3 Electric Irons UAE.S / IEC 60335-2-3: 2002 5th Ed.\n4 Microwave Ovens UAE.S / GSO / IEC 60335-2-25: 2007\n5 Washing Machines and UAE.S / GSO / IEC 60335-2-4: 2007 + A1:2004\nClothes Dryers\n6 Electric Stove UAE.S / IEC 60335-2-9:2004 Ed. 5.1 (for portable\nappliances)\nIEC 60335-2-6: 2002 5th Ed. (for stationary\nappliances)\n7 Refrigerators and Chillers UAE S. / IEC 60335-2-24: 2002 6th Ed.\nand Freezers\n8 Room Air Conditioners UAE S. / IEC 60335-2-40:2005\n9 Household Cooking Appliances UAE.S IEC 60335-1, UAE.S 60335-2-9, UAE.S 60335-\n2-13\n10 Electromechanical Kitchen UAE.S 60335-1, UAE.S 60335-2-14\nAppliances\n11 Vacuum Cleaners UAE.S IEC 60335-1, UAE.S 60335-2-2\n12 Fans & Fan Systems including UAE.S IEC 60335-1, UAE.S 60335-2-80, UAE.S 60335-\nAir-purifiers 2-65\n13 Appliances for Heating Liquids UAE.S IEC 60335-1, UAE.S 60335-2-15\n14 Grass Shears/Trimmers UAE.S IEC 60335-1, UAE.S 60335-2-91, UAE.S 60335-\n2-94\n15 Gas Powered Ovens & Cooking UAE.S GSO 1050:2011; UAE.GSO 1049:2011\nRanges",
+      "page_start": 8,
+      "page_end": 8,
+      "char_start": 10426,
+      "char_end": 11625,
+      "clause_types": []
+    }
+  ],
+  "items": [
+    {
+      "item_id": "CARL-01:1:bdf7fa4d0bb5",
+      "kind": "entity",
+      "type_name": "organisation",
+      "clause_id": "1",
+      "payload": {
+        "type": "organisation",
+        "text": "ESMA",
+        "normalized": "",
+        "quote": "for Standardization and Metrology (ESMA).",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "1",
+        "page": 2,
+        "char_start": 277,
+        "char_end": 318,
+        "quote": "for Standardization and Metrology (ESMA).",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:1:016616bc5b63",
+      "kind": "entity",
+      "type_name": "location",
+      "clause_id": "1",
+      "payload": {
+        "type": "location",
+        "text": "United Arab Emirates",
+        "normalized": "",
+        "quote": "intending to promote and sell their products in the United Arab Emirates.",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "1",
+        "page": 2,
+        "char_start": 446,
+        "char_end": 519,
+        "quote": "intending to promote and sell their products in the United Arab Emirates.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:1:1f7f9707637f",
+      "kind": "entity",
+      "type_name": "role",
+      "clause_id": "1",
+      "payload": {
+        "type": "role",
+        "text": "manufacturers",
+        "normalized": "",
+        "quote": "are issued for the information, guidance and compliance of Manufacturers and Traders",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "1",
+        "page": 2,
+        "char_start": 361,
+        "char_end": 445,
+        "quote": "are issued for the information, guidance and compliance of Manufacturers and Traders",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:1:373868ca6e80",
+      "kind": "entity",
+      "type_name": "role",
+      "clause_id": "1",
+      "payload": {
+        "type": "role",
+        "text": "traders",
+        "normalized": "",
+        "quote": "are issued for the information, guidance and compliance of Manufacturers and Traders",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "1",
+        "page": 2,
+        "char_start": 361,
+        "char_end": 445,
+        "quote": "are issued for the information, guidance and compliance of Manufacturers and Traders",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2:bebefcca3a3e",
+      "kind": "obligation",
+      "type_name": "obligation",
+      "clause_id": "2",
+      "payload": {
+        "subject": "",
+        "modality": "shall",
+        "action": "take all appropriate measures to ensure that electrical",
+        "condition": "",
+        "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical",
+        "confidence": 0.72
+      },
+      "evidence": {
+        "clause_id": "2",
+        "page": 2,
+        "char_start": 534,
+        "char_end": 620,
+        "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.944,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "has_action": true,
+          "modality_known": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2:c913924dc46a",
+      "kind": "obligation",
+      "type_name": "obligation",
+      "clause_id": "2",
+      "payload": {
+        "subject": "",
+        "modality": "may",
+        "action": "be placed on the market or put into service only if, having been constructed",
+        "condition": "if, having been constructed",
+        "quote": "equipment may be placed on the market or put into service only if, having been constructed",
+        "confidence": 0.72
+      },
+      "evidence": {
+        "clause_id": "2",
+        "page": 2,
+        "char_start": 621,
+        "char_end": 711,
+        "quote": "equipment may be placed on the market or put into service only if, having been constructed",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.944,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "has_action": true,
+          "modality_known": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2:e1c8580e7d9a",
+      "kind": "obligation",
+      "type_name": "obligation",
+      "clause_id": "2",
+      "payload": {
+        "subject": "",
+        "modality": "must",
+        "action": "meet these requirements",
+        "condition": "",
+        "quote": "electrical equipment must meet these requirements.",
+        "confidence": 0.72
+      },
+      "evidence": {
+        "clause_id": "2",
+        "page": 2,
+        "char_start": 1144,
+        "char_end": 1194,
+        "quote": "electrical equipment must meet these requirements.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.944,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "has_action": true,
+          "modality_known": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2:8d7d01725995",
+      "kind": "obligation",
+      "type_name": "obligation",
+      "clause_id": "2",
+      "payload": {
+        "subject": "",
+        "modality": "must",
+        "action": "meet",
+        "condition": "",
+        "quote": "equipment must meet:",
+        "confidence": 0.72
+      },
+      "evidence": {
+        "clause_id": "2",
+        "page": 2,
+        "char_start": 1226,
+        "char_end": 1246,
+        "quote": "equipment must meet:",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.494,
+        "decision": "review",
+        "reasons": [
+          "models_disagree"
+        ],
+        "agreement": 0.0,
+        "validators": {
+          "evidence_grounded": true,
+          "has_action": true,
+          "modality_known": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2:26207e1ad400",
+      "kind": "entity",
+      "type_name": "location",
+      "clause_id": "2",
+      "payload": {
+        "type": "location",
+        "text": "United Arab Emirates",
+        "normalized": "",
+        "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "2",
+        "page": 2,
+        "char_start": 534,
+        "char_end": 620,
+        "quote": "The United Arab Emirates shall take all appropriate measures to ensure that electrical",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2.1:7543f59e283b",
+      "kind": "obligation",
+      "type_name": "obligation",
+      "clause_id": "2.1",
+      "payload": {
+        "subject": "",
+        "modality": "shall",
+        "action": "be so constructed in accordance with good engineering",
+        "condition": "",
+        "quote": "The electrical equipment shall be so constructed in accordance with good engineering",
+        "confidence": 0.72
+      },
+      "evidence": {
+        "clause_id": "2.1",
+        "page": 2,
+        "char_start": 1279,
+        "char_end": 1363,
+        "quote": "The electrical equipment shall be so constructed in accordance with good engineering",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.944,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "has_action": true,
+          "modality_known": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2.1:211764233b7a",
+      "kind": "obligation",
+      "type_name": "obligation",
+      "clause_id": "2.1",
+      "payload": {
+        "subject": "",
+        "modality": "must",
+        "action": "meet are listed in Annex I",
+        "condition": "",
+        "quote": "equipment must meet are listed in Annex I.",
+        "confidence": 0.72
+      },
+      "evidence": {
+        "clause_id": "2.1",
+        "page": 2,
+        "char_start": 1627,
+        "char_end": 1669,
+        "quote": "equipment must meet are listed in Annex I.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.494,
+        "decision": "review",
+        "reasons": [
+          "models_disagree"
+        ],
+        "agreement": 0.0,
+        "validators": {
+          "evidence_grounded": true,
+          "has_action": true,
+          "modality_known": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2.1:be76380c30b9",
+      "kind": "entity",
+      "type_name": "location",
+      "clause_id": "2.1",
+      "payload": {
+        "type": "location",
+        "text": "UAE",
+        "normalized": "",
+        "quote": "practices are specified in IEC Standards, UAE Standards or other relevant standards and",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "2.1",
+        "page": 2,
+        "char_start": 1454,
+        "char_end": 1541,
+        "quote": "practices are specified in IEC Standards, UAE Standards or other relevant standards and",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2.1:49b2a113d746",
+      "kind": "cross_reference",
+      "type_name": "cross_reference",
+      "clause_id": "2.1",
+      "payload": {
+        "text": "Annex I",
+        "scope": "internal",
+        "target_document": "",
+        "target_clause_id": "ANNEX-1",
+        "quote": "equipment must meet are listed in Annex I.",
+        "confidence": 0.66
+      },
+      "evidence": {
+        "clause_id": "2.1",
+        "page": 2,
+        "char_start": 1627,
+        "char_end": 1669,
+        "quote": "equipment must meet are listed in Annex I.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.932,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "internal_target_exists": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2.2:61dd70fdf189",
+      "kind": "entity",
+      "type_name": "organisation",
+      "clause_id": "2.2",
+      "payload": {
+        "type": "organisation",
+        "text": "ESMA",
+        "normalized": "",
+        "quote": "representative are imposed by ESMA (e.g.",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "2.2",
+        "page": 2,
+        "char_start": 1793,
+        "char_end": 1833,
+        "quote": "representative are imposed by ESMA (e.g.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:2.2:55f641b0fb40",
+      "kind": "entity",
+      "type_name": "role",
+      "clause_id": "2.2",
+      "payload": {
+        "type": "role",
+        "text": "manufacturer",
+        "normalized": "",
+        "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "2.2",
+        "page": 2,
+        "char_start": 1707,
+        "char_end": 1792,
+        "quote": "Compulsory procedures and documents implemented by the manufacturer or his authorized",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:3.1.1:42decea1b94d",
+      "kind": "entity",
+      "type_name": "numeric_threshold",
+      "clause_id": "3.1.1",
+      "payload": {
+        "type": "numeric_threshold",
+        "text": "between 50 and 1000 volts",
+        "normalized": "between 50 and 1000 volts",
+        "quote": "designation for used with input voltage rating between 50 and 1000 volts for alternating",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "3.1.1",
+        "page": 2,
+        "char_start": 2122,
+        "char_end": 2210,
+        "quote": "designation for used with input voltage rating between 50 and 1000 volts for alternating",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "numeric_value_in_quote": true
+        },
+        "impact": "high",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:3.1.1:df77c23a91e0",
+      "kind": "entity",
+      "type_name": "numeric_threshold",
+      "clause_id": "3.1.1",
+      "payload": {
+        "type": "numeric_threshold",
+        "text": "75 volts",
+        "normalized": "75 volts",
+        "quote": "current and between 75 volts to 1500 volts for direct current.",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "3.1.1",
+        "page": 3,
+        "char_start": 2211,
+        "char_end": 2273,
+        "quote": "current and between 75 volts to 1500 volts for direct current.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "numeric_value_in_quote": true
+        },
+        "impact": "high",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:3.1.1:75b45ba280d2",
+      "kind": "entity",
+      "type_name": "numeric_threshold",
+      "clause_id": "3.1.1",
+      "payload": {
+        "type": "numeric_threshold",
+        "text": "1500 volts",
+        "normalized": "1500 volts",
+        "quote": "current and between 75 volts to 1500 volts for direct current.",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "3.1.1",
+        "page": 3,
+        "char_start": 2211,
+        "char_end": 2273,
+        "quote": "current and between 75 volts to 1500 volts for direct current.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "numeric_value_in_quote": true
+        },
+        "impact": "high",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:3.1.2:3587487579fd",
+      "kind": "obligation",
+      "type_name": "obligation",
+      "clause_id": "3.1.2",
+      "payload": {
+        "subject": "",
+        "modality": "shall",
+        "action": "not apply to the products excluded by UAE / IEC 60335-1",
+        "condition": "",
+        "quote": "3.1.2 This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+        "confidence": 0.72
+      },
+      "evidence": {
+        "clause_id": "3.1.2",
+        "page": 3,
+        "char_start": 2351,
+        "char_end": 2433,
+        "quote": "3.1.2 This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.944,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "has_action": true,
+          "modality_known": true
+        },
+        "impact": "high",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:3.1.2:e6be030e206a",
+      "kind": "entity",
+      "type_name": "standard_reference",
+      "clause_id": "3.1.2",
+      "payload": {
+        "type": "standard_reference",
+        "text": "UAE / IEC 60335-1",
+        "normalized": "UAE / IEC 60335-1",
+        "quote": "3.1.2 This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "3.1.2",
+        "page": 3,
+        "char_start": 2351,
+        "char_end": 2433,
+        "quote": "3.1.2 This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "standard_pattern": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:3.1.2:0ab6de7d333a",
+      "kind": "entity",
+      "type_name": "location",
+      "clause_id": "3.1.2",
+      "payload": {
+        "type": "location",
+        "text": "UAE",
+        "normalized": "",
+        "quote": "3.1.2 This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "3.1.2",
+        "page": 3,
+        "char_start": 2351,
+        "char_end": 2433,
+        "quote": "3.1.2 This document shall not apply to the products excluded by UAE / IEC 60335-1.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "low",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:4:ff43003b463a",
+      "kind": "entity",
+      "type_name": "standard_reference",
+      "clause_id": "4",
+      "payload": {
+        "type": "standard_reference",
+        "text": "UAE / IEC 60335-1: 2007",
+        "normalized": "UAE / IEC 60335-1: 2007",
+        "quote": "1 UAE / IEC 60335-1: 2007 IEC 60335-1 : 2006 Household and similar",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "4",
+        "page": 3,
+        "char_start": 2558,
+        "char_end": 2624,
+        "quote": "1 UAE / IEC 60335-1: 2007 IEC 60335-1 : 2006 Household and similar",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "standard_pattern": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:4:fc488024cd91",
+      "kind": "entity",
+      "type_name": "standard_reference",
+      "clause_id": "4",
+      "payload": {
+        "type": "standard_reference",
+        "text": "IEC 60335-1 : 2006",
+        "normalized": "IEC 60335-1 : 2006",
+        "quote": "1 UAE / IEC 60335-1: 2007 IEC 60335-1 : 2006 Household and similar",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "4",
+        "page": 3,
+        "char_start": 2558,
+        "char_end": 2624,
+        "quote": "1 UAE / IEC 60335-1: 2007 IEC 60335-1 : 2006 Household and similar",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "standard_pattern": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:4:99733ade7d38",
+      "kind": "entity",
+      "type_name": "standard_reference",
+      "clause_id": "4",
+      "payload": {
+        "type": "standard_reference",
+        "text": "UAE / IEC 60335",
+        "normalized": "UAE / IEC 60335",
+        "quote": "1 UAE / IEC 60335-1:",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "4",
+        "page": 3,
+        "char_start": 2558,
+        "char_end": 2578,
+        "quote": "1 UAE / IEC 60335-1:",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "standard_pattern": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:4:10985ec51af0",
+      "kind": "entity",
+      "type_name": "standard_reference",
+      "clause_id": "4",
+      "payload": {
+        "type": "standard_reference",
+        "text": "IEC 60335",
+        "normalized": "IEC 60335",
+        "quote": "1 UAE / IEC 60335-1:",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "4",
+        "page": 3,
+        "char_start": 2558,
+        "char_end": 2578,
+        "quote": "1 UAE / IEC 60335-1:",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true,
+          "standard_pattern": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": null,
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:5.1:d6d443d468c9",
+      "kind": "entity",
+      "type_name": "legal_reference",
+      "clause_id": "5.1",
+      "payload": {
+        "type": "legal_reference",
+        "text": "Federal Law No. 28",
+        "normalized": "",
+        "quote": "Standards body as mandated by Federal Law No. 28. It is the Competent",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "5.1",
+        "page": 3,
+        "char_start": 2886,
+        "char_end": 2955,
+        "quote": "Standards body as mandated by Federal Law No. 28. It is the Competent",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "auto_accept",
+        "reasons": [],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": {
+        "status": "resolved",
+        "target_document_id": "AE-FL-28",
+        "target_title": "Federal Law No. 28",
+        "score": 1.0,
+        "method": "hybrid[in-process] -> rerank[lexical]",
+        "reason": "score 1.00 clears the floor of 0.90",
+        "candidates_considered": 10
+      },
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:8.1:0f544a725228",
+      "kind": "entity",
+      "type_name": "legal_reference",
+      "clause_id": "8.1",
+      "payload": {
+        "type": "legal_reference",
+        "text": "ECAS General Requirements",
+        "normalized": "",
+        "quote": "ECAS General Requirements.",
+        "confidence": 0.7
+      },
+      "evidence": {
+        "clause_id": "8.1",
+        "page": 5,
+        "char_start": 6190,
+        "char_end": 6216,
+        "quote": "ECAS General Requirements.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.94,
+        "decision": "review",
+        "reasons": [
+          "uses_disputed_term:ECAS"
+        ],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "entity_text_in_quote": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": {
+        "status": "resolved",
+        "target_document_id": "ECAS-GR",
+        "target_title": "ECAS General Requirements",
+        "score": 1.0,
+        "method": "hybrid[in-process] -> rerank[lexical]",
+        "reason": "score 1.00 clears the floor of 0.90",
+        "candidates_considered": 10
+      },
+      "supersedes": null
+    },
+    {
+      "item_id": "CARL-01:8.1:bbd64bfee4cb",
+      "kind": "cross_reference",
+      "type_name": "cross_reference",
+      "clause_id": "8.1",
+      "payload": {
+        "text": "clause no. 6 of\nECAS General Requirements",
+        "scope": "external",
+        "target_document": "ECAS General Requirements",
+        "target_clause_id": "6",
+        "quote": "8.1 Upon the acceptance of the Application, Product shall be evaluated according to\na relevant conformity assessment scheme which is written in clause no. 6 of\nECAS General Requirements.",
+        "confidence": 0.68
+      },
+      "evidence": {
+        "clause_id": "8.1",
+        "page": 5,
+        "char_start": 6030,
+        "char_end": 6216,
+        "quote": "8.1 Upon the acceptance of the Application, Product shall be evaluated according to\na relevant conformity assessment scheme which is written in clause no. 6 of\nECAS General Requirements.",
+        "grounded": true,
+        "match_kind": "exact",
+        "match_score": 100.0
+      },
+      "review": {
+        "score": 0.936,
+        "decision": "review",
+        "reasons": [
+          "uses_disputed_term:ECAS"
+        ],
+        "agreement": 1.0,
+        "validators": {
+          "evidence_grounded": true,
+          "external_has_document": true
+        },
+        "impact": "medium",
+        "judge_priority": null,
+        "notes": [],
+        "reviewer": "",
+        "reviewed_at": "",
+        "review_note": ""
+      },
+      "provenance": {
+        "model": "anthropic/claude-opus-5 (stub)",
+        "model_version": "anthropic/claude-opus-5 (stub)",
+        "prompt_version": "extract-v1",
+        "taxonomy_version": "taxonomy-v1-10types",
+        "run_id": "6ba6d6e403d4",
+        "timestamp": "2026-09-10"
+      },
+      "resolution": {
+        "status": "resolved",
+        "target_document_id": "ECAS-GR",
+        "target_title": "ECAS General Requirements",
+        "score": 1.0,
+        "method": "hybrid[in-process] -> rerank[lexical]",
+        "reason": "score 1.00 clears the floor of 0.90",
+        "candidates_considered": 10
+      },
+      "supersedes": null
+    }
+  ],
+  "flags": [
+    {
+      "code": "conflicting_definition",
+      "detail": "ECAS expanded 2 ways: ['emirates conformity assessment scheme', 'emirates conformity assessment systems']",
+      "clause_ids": []
+    }
+  ],
+  "stats": {
+    "structure": {
+      "clause_count": 73,
+      "top_level_sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "numbering_gaps": [],
+      "duplicate_ids": [],
+      "max_depth": 4,
+      "synthetic_ids": [
+        "FEES",
+        "CONTACT",
+        "ANNEX-1"
+      ]
+    },
+    "routing": {
+      "items": 153,
+      "grounded": 153,
+      "grounding_rate": 1.0,
+      "auto_accept": 133,
+      "review": 20,
+      "review_rate": 0.1307,
+      "accepted_by_reviewer": 0,
+      "rejected": 0,
+      "superseded": 0,
+      "by_tier": {
+        "low": {
+          "total": 67,
+          "auto_accept": 64
+        },
+        "medium": {
+          "total": 67,
+          "auto_accept": 58
+        },
+        "high": {
+          "total": 19,
+          "auto_accept": 11
+        }
+      }
+    },
+    "model_calls": {
+      "calls": 146,
+      "by_source": {
+        "stub": 146
+      },
+      "served_models": {},
+      "fallbacks_used": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "total_latency_ms": 0.0,
+      "errors": []
+    },
+    "guardrails": [],
+    "resolution": {
+      "references": 3,
+      "resolved": 3,
+      "not_found": 0,
+      "backend": "in-process",
+      "catalog_size": 211
+    }
+  },
+  "_note": "Truncated for readability: the first 25 items, plus the external references with their corpus links. Full output is regenerated by: python run.py extract"
+}

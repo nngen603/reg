@@ -1,0 +1,60 @@
+{
+  "clause_types": [
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "manufacturer / supplier",
+      "modality": "shall",
+      "action": "ensure that the product meets the requirements of other applicable regulations that were not assessed during the process",
+      "condition": "includes quality, safety, health and environmental regulations that are not necessarily covered by the relevant Standards and/or the Specific Requirements",
+      "quote": "The manufacturer / supplier are ultimately responsible for ensuring that the product meets the requirements of other applicable regulations that were not assessed during the process. This includes quality, safety, health and environmental regulations that are not necessarily covered by the relevant Standards and or the Specific Requirements.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "manufacturer / supplier",
+      "normalized": "manufacturer and/or supplier",
+      "quote": "The manufacturer / supplier are ultimately responsible for ensuring",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "The manufacturer / supplier are ultimately responsible for ensuring that the product meets the requirements",
+      "confidence": 0.9
+    },
+    {
+      "type": "legal_reference",
+      "text": "other applicable regulations",
+      "normalized": "other applicable regulations (not assessed during the process)",
+      "quote": "that the product meets the requirements of other applicable regulations that were not assessed during the process",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "relevant Standards",
+      "normalized": "relevant Standards (as defined in the document)",
+      "quote": "regulations that are not necessarily covered by the relevant Standards",
+      "confidence": 0.9
+    },
+    {
+      "type": "legal_reference",
+      "text": "Specific Requirements",
+      "normalized": "Specific Requirements (as defined in the document)",
+      "quote": "regulations that are not necessarily covered by the relevant Standards and or the Specific Requirements",
+      "confidence": 0.9
+    },
+    {
+      "type": "product_category",
+      "text": "quality, safety, health and environmental regulations",
+      "normalized": "quality, safety, health, and environmental regulations",
+      "quote": "This includes quality, safety, health and environmental regulations",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

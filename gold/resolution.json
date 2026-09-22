@@ -1,0 +1,13 @@
+{
+  "_about": "Hand-written reference-resolution cases. `expected` is a catalogue id, or null when the correct answer is NOT_FOUND. Evaluated twice: against the catalogue alone, and with about two hundred unrelated titles mixed in, to test retrieval against a clean and a noisy collection.",
+  "queries": [
+    {"query": "ECAS General Requirements", "expected": "ECAS-GR", "note": "CARL-01 clause 8.1"},
+    {"query": "Federal Law No. 28", "expected": "AE-FL-28", "note": "CARL-01 clause 5.1"},
+    {"query": "ECAS General Requirement", "expected": "ECAS-GR", "note": "a spelling variant still resolves"},
+    {"query": "Emirates Conformity Assessment Scheme General Requirements", "expected": "ECAS-GR", "note": "the acronym expanded"},
+    {"query": "Federal Law No. 2", "expected": null, "note": "one digit away from a catalogue title; only the number check refuses it"},
+    {"query": "Federal Law No. 99", "expected": null, "note": "near two catalogue titles, in neither"},
+    {"query": "GSO Technical Regulation for Low Voltage Electrical Equipment", "expected": null, "note": "plausible, not in the corpus"},
+    {"query": "General Requirements", "expected": null, "note": "too vague to link to anything"}
+  ]
+}

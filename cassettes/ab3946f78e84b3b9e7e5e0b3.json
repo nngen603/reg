@@ -1,0 +1,16 @@
+{
+  "clause_types": [
+    "normative_reference"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "BS 546",
+      "normalized": "BS 546",
+      "quote": "6.4.3 BS 546 Plug Configurations for 15 Ampere Appliances.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

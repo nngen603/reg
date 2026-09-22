@@ -1,0 +1,23 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA – The Emirates Authority for Standardization and Metrology",
+      "normalized": "",
+      "quote": "5.1 ESMA – The Emirates Authority for Standardization and Metrology.",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "Federal Law No. 28",
+      "normalized": "",
+      "quote": "The UAE’s Standards body as mandated by Federal Law No. 28.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

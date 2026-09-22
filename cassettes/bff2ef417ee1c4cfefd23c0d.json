@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "product complying to a relevant UAE Standard/s or to any ESMA recognized National/Regional and International Standards.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "UAE Standard/s",
+      "normalized": "",
+      "quote": "product complying to a relevant UAE Standard/s or to any ESMA recognized National/Regional and International Standards.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "ESMA recognized National/Regional and International Standards",
+      "normalized": "",
+      "quote": "product complying to a relevant UAE Standard/s or to any ESMA recognized National/Regional and International Standards.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

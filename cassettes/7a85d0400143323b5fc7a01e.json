@@ -1,0 +1,16 @@
+{
+  "clause_types": [
+    "responsibility"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "role",
+      "text": "manufacturer / supplier",
+      "normalized": "",
+      "quote": "The manufacturer / supplier are ultimately responsible for ensuring that the product meets the requirements of other applicable regulations that were not assessed during the process.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

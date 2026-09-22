@@ -1,0 +1,65 @@
+{
+  "clause_types": [
+    "requirement",
+    "responsibility",
+    "procedure",
+    "enforcement"
+  ],
+  "obligations": [
+    {
+      "subject": "Ports and Customs authority",
+      "modality": "shall",
+      "action": "coordinate with ESMA whenever a consignment without ECAS certificate is observed",
+      "condition": "",
+      "quote": "Ports and Customs authority shall coordinate with ESMA whenever a consignment without ECAS certificated is observed.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "ESMA and the Ports and Customs Authorities",
+      "modality": "shall",
+      "action": "take appropriate action",
+      "condition": "whenever a consignment without ECAS certificate is observed",
+      "quote": "Appropriate action shall then be taken by both ESMA and the Ports and Customs Authorities.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "hold consignment without the ECAS Registration Certificate",
+      "condition": "",
+      "quote": "Consignment without the ECAS Registration Certificate shall be held.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "Ports and Customs authority shall coordinate with ESMA whenever a consignment without ECAS certificated is observed.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Ports and Customs Authorities",
+      "normalized": "Ports and Customs Authorities",
+      "quote": "Appropriate action shall then be taken by both ESMA and the Ports and Customs Authorities.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "ECAS Registration Certificate",
+      "normalized": "ECAS Registration Certificate",
+      "quote": "Consignment without the ECAS Registration Certificate shall be held.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "ECAS certificate",
+      "normalized": "ECAS certificate",
+      "quote": "Ports and Customs authority shall coordinate with ESMA whenever a consignment without ECAS certificated is observed.",
+      "confidence": 0.9
+    }
+  ],
+  "cross_references": []
+}

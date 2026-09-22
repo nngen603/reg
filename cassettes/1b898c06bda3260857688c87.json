@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "administrative"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Application for Registration",
+      "normalized": "Application for Registration",
+      "quote": "a. Application for Registration",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Operational fees",
+      "normalized": "Operational fees",
+      "quote": "b. Operational fees",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Certification Decision Fee",
+      "normalized": "Certification Decision Fee",
+      "quote": "c. Certification Decision Fee",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

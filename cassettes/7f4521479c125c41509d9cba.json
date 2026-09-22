@@ -1,0 +1,44 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "role",
+      "text": "Approved Supplier",
+      "normalized": "",
+      "quote": "5.3 Approved Supplier – a manufacturer and/or trader responsible for the product covered by this Specific Requirement.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "manufacturer",
+      "normalized": "",
+      "quote": "5.3 Approved Supplier – a manufacturer and/or trader responsible for the product covered by this Specific Requirement.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "trader",
+      "normalized": "",
+      "quote": "5.3 Approved Supplier – a manufacturer and/or trader responsible for the product covered by this Specific Requirement.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "",
+      "quote": "5.3 Approved Supplier – a manufacturer and/or trader responsible for the product covered by this Specific Requirement.",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "Specific Requirement",
+      "normalized": "",
+      "quote": "5.3 Approved Supplier – a manufacturer and/or trader responsible for the product covered by this Specific Requirement.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

@@ -1,0 +1,16 @@
+{
+  "clause_types": [
+    "normative_reference"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "BS 1363",
+      "normalized": "",
+      "quote": "6.4.1 BS 1363.",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

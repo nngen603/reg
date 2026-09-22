@@ -1,0 +1,39 @@
+{
+  "clause_types": [
+    "responsibility"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "shall",
+      "action": "not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments",
+      "condition": "",
+      "quote": "ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments",
+      "confidence": 0.99
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments",
+      "confidence": 0.99
+    },
+    {
+      "type": "product_category",
+      "text": "low voltage equipments",
+      "normalized": "low voltage equipments",
+      "quote": "ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments",
+      "confidence": 0.99
+    },
+    {
+      "type": "role",
+      "text": "manufacturers / suppliers",
+      "normalized": "manufacturers / suppliers",
+      "quote": "ESMA shall not be held responsible for any action (legal or otherwise) raise by any party against the manufacturers / suppliers on matters resulting from the implementation of ECAS for low voltage equipments",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

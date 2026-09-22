@@ -1,0 +1,17 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "manufacturer",
+      "modality": "reserves_right",
+      "action": "grant exclusive distributorship to the trader",
+      "condition": "",
+      "quote": "Exclusive distributorship from the manufacturer for the trader.",
+      "confidence": 0.95
+    }
+  ],
+  "entities": [],
+  "cross_references": []
+}

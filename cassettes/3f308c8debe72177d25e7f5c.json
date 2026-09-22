@@ -1,0 +1,32 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Approved Supplier",
+      "modality": "shall",
+      "action": "mark the product with the country of origin",
+      "condition": "",
+      "quote": "Country of Origin marking on the product",
+      "confidence": 0.9
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "low voltage equipment (LVE)",
+      "quote": "Country of Origin marking on the product",
+      "confidence": 0.85
+    },
+    {
+      "type": "location",
+      "text": "country of origin",
+      "normalized": "",
+      "quote": "Country of Origin marking on the product",
+      "confidence": 0.95
+    }
+  ],
+  "cross_references": []
+}

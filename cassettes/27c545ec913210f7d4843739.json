@@ -1,0 +1,40 @@
+{
+  "clause_types": [
+    "validity_and_dates",
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "be required",
+      "condition": "a month before the expiration of the Registration Certificate",
+      "quote": "Renewal of registration shall be required a month before the expiration of the Registration Certificate.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "ECAS Registration Certificate",
+      "normalized": "",
+      "quote": "ECAS Registration Certificate shall be valid for one year.",
+      "confidence": 1.0
+    },
+    {
+      "type": "time_period",
+      "text": "one year",
+      "normalized": "1 year",
+      "quote": "ECAS Registration Certificate shall be valid for one year.",
+      "confidence": 1.0
+    },
+    {
+      "type": "time_period",
+      "text": "a month",
+      "normalized": "1 month",
+      "quote": "Renewal of registration shall be required a month before the expiration of the Registration Certificate.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

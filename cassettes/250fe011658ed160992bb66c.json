@@ -1,0 +1,27 @@
+{
+  "clause_types": [
+    "requirement",
+    "procedure"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "shall",
+      "action": "collect Samples for testing",
+      "condition": "as required by relevant standards mentioned in clause 4 of this document",
+      "quote": "Samples shall be collected by ESMA for testing as required by relevant standards mentioned in clause 4 of this document.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [],
+  "cross_references": [
+    {
+      "text": "clause 4 of this document",
+      "scope": "internal",
+      "target_document": "",
+      "target_clause_id": "4",
+      "quote": "Samples shall be collected by ESMA for testing as required by relevant standards mentioned in clause 4 of this document.",
+      "confidence": 1.0
+    }
+  ]
+}

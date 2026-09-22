@@ -1,0 +1,62 @@
+{
+  "clause_types": [
+    "scope",
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "reserves_right",
+      "action": "monitor products manufactured in UAE in the factory, warehouses, and retail shops",
+      "condition": "",
+      "quote": "Products manufactured in UAE are monitored in the factory, warehouses and in retail shops.",
+      "confidence": 1.0
+    },
+    {
+      "subject": "",
+      "modality": "reserves_right",
+      "action": "allow products with ECAS Registration to be traded in the UAE",
+      "condition": "",
+      "quote": "Products having ECAS Registration are allowed to be traded in the UAE.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "location",
+      "text": "UAE",
+      "normalized": "United Arab Emirates",
+      "quote": "Products manufactured in UAE are monitored in the factory, warehouses and in retail shops.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "factory",
+      "normalized": "factory",
+      "quote": "Products manufactured in UAE are monitored in the factory, warehouses and in retail shops.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "warehouses",
+      "normalized": "warehouses",
+      "quote": "Products manufactured in UAE are monitored in the factory, warehouses and in retail shops.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "retail shops",
+      "normalized": "retail shops",
+      "quote": "Products manufactured in UAE are monitored in the factory, warehouses and in retail shops.",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "ECAS Registration",
+      "normalized": "ECAS Registration",
+      "quote": "Products having ECAS Registration are allowed to be traded in the UAE.",
+      "confidence": 0.95
+    }
+  ],
+  "cross_references": []
+}

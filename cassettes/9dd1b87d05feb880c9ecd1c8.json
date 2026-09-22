@@ -1,0 +1,72 @@
+{
+  "clause_types": [
+    "administrative"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "Conformity Affairs Department",
+      "normalized": "Conformity Affairs Department",
+      "quote": "Conformity Affairs Department",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "normalized": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "quote": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "P.O.Box 48666 – Dubai – UAE",
+      "normalized": "P.O.Box 48666, Dubai, UAE",
+      "quote": "P.O.Box 48666 – Dubai – UAE",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "Dubai",
+      "normalized": "Dubai",
+      "quote": "P.O.Box 48666 – Dubai – UAE",
+      "confidence": 0.9
+    },
+    {
+      "type": "location",
+      "text": "UAE",
+      "normalized": "UAE",
+      "quote": "P.O.Box 48666 – Dubai – UAE",
+      "confidence": 0.9
+    },
+    {
+      "type": "numeric_threshold",
+      "text": "+971 4 2944434",
+      "normalized": "+97142944434",
+      "quote": "+971 4 2944434",
+      "confidence": 1.0
+    },
+    {
+      "type": "numeric_threshold",
+      "text": "+971 42944428",
+      "normalized": "+97142944428",
+      "quote": "+971 42944428",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "Conformity Affairs Department",
+      "normalized": "Conformity Affairs Department",
+      "quote": "Conformity Affairs Department",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "www.esma.ae",
+      "normalized": "www.esma.ae",
+      "quote": "Web :www.esma.ae",
+      "confidence": 0.8
+    }
+  ],
+  "cross_references": []
+}

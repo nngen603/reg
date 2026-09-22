@@ -1,0 +1,21 @@
+{
+  "clause_types": [],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "role",
+      "text": "manufacturer",
+      "normalized": "",
+      "quote": "7.1.4 Exclusive distributorship from the manufacturer for the trader.",
+      "confidence": 0.99
+    },
+    {
+      "type": "role",
+      "text": "trader",
+      "normalized": "",
+      "quote": "7.1.4 Exclusive distributorship from the manufacturer for the trader.",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}

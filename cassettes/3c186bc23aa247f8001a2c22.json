@@ -1,0 +1,25 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Manufacturers / Traders",
+      "modality": "shall",
+      "action": "submit a list of components used and their specifications",
+      "condition": "",
+      "quote": "List of components used and their specifications.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "components used and their specifications",
+      "normalized": "components and specifications",
+      "quote": "List of components used and their specifications.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

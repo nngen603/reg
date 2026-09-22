@@ -1,0 +1,26 @@
+{
+  "clause_types": [
+    "procedure"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "shall",
+      "action": "Product shall be evaluated according to a relevant conformity assessment scheme",
+      "condition": "Upon the acceptance of the Application",
+      "quote": "Upon the acceptance of the Application, Product shall be evaluated according to a relevant conformity assessment scheme which is written in clause no. 6 of ECAS General Requirements.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [],
+  "cross_references": [
+    {
+      "text": "clause no. 6 of ECAS General Requirements",
+      "scope": "external",
+      "target_document": "ECAS General Requirements",
+      "target_clause_id": "6",
+      "quote": "Upon the acceptance of the Application, Product shall be evaluated according to a relevant conformity assessment scheme which is written in clause no. 6 of ECAS General Requirements.",
+      "confidence": 1.0
+    }
+  ]
+}

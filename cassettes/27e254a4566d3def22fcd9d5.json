@@ -1,0 +1,37 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "role",
+      "text": "manufacturer",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "applicant",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "trader",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "agent",
+      "normalized": "",
+      "quote": "Proof of Exclusive Distributorship from the manufacturer in case the applicant is a trader or an agent.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

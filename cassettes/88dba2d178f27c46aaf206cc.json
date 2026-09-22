@@ -1,0 +1,16 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "",
+      "quote": "5.9 Recognized Conformity Assessment Body- a competent body recognized by\nESMA to carry out factory inspection and/or testing of product.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

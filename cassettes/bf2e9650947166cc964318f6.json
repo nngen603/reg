@@ -1,0 +1,53 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Manufacturers / Traders",
+      "modality": "shall",
+      "action": "submit a filled ECAS application form together with a valid industry license",
+      "condition": "",
+      "quote": "Manufacturers / Traders shall submit a filled ECAS application form together",
+      "confidence": 0.95
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "Manufacturers / Traders",
+      "normalized": "Manufacturers and Traders",
+      "quote": "Manufacturers / Traders shall submit a filled ECAS application form together",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Low Voltage Equipment",
+      "normalized": "Low Voltage Equipment (LVE)",
+      "quote": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "Valid Industry License",
+      "normalized": "Valid Industry License",
+      "quote": "Valid Industry License",
+      "confidence": 1.0
+    },
+    {
+      "type": "standard_reference",
+      "text": "ECAS application form",
+      "normalized": "ECAS application form",
+      "quote": "filled ECAS application form together",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "ECAS",
+      "normalized": "Emirates Conformity Assessment Systems",
+      "quote": "filled ECAS application form together",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

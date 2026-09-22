@@ -1,0 +1,21 @@
+{
+  "clause_types": [],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ECAS",
+      "normalized": "ECAS",
+      "quote": "5.6 ECAS – Emirates Conformity Assessment Systems",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Emirates Conformity Assessment Systems",
+      "normalized": "Emirates Conformity Assessment Systems",
+      "quote": "5.6 ECAS – Emirates Conformity Assessment Systems",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

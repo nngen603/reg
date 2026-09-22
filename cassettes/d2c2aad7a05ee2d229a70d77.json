@@ -1,0 +1,51 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "ESMA",
+      "normalized": "ESMA",
+      "quote": "5.1 ESMA – The Emirates Authority for Standardization and Metrology.",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Emirates Authority for Standardization and Metrology",
+      "normalized": "Emirates Authority for Standardization and Metrology",
+      "quote": "5.1 ESMA – The Emirates Authority for Standardization and Metrology.",
+      "confidence": 1.0
+    },
+    {
+      "type": "legal_reference",
+      "text": "Federal Law No. 28",
+      "normalized": "Federal Law No. 28",
+      "quote": "The UAE’s Standards body as mandated by Federal Law No. 28.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "Standards body",
+      "normalized": "Standards body",
+      "quote": "The UAE’s Standards body as mandated by Federal Law No. 28.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "Competent government entity",
+      "normalized": "Competent government entity",
+      "quote": "It is the Competent government entity responsible for implementing this Specific Requirement for low voltage appliances.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "low voltage appliances",
+      "normalized": "low voltage appliances",
+      "quote": "responsible for implementing this Specific Requirement for low voltage appliances.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

@@ -1,0 +1,17 @@
+{
+  "clause_types": [
+    "administrative"
+  ],
+  "obligations": [
+    {
+      "subject": "",
+      "modality": "reserves_right",
+      "action": "raise applicable fees",
+      "condition": "",
+      "quote": "Payment of Applicable Fees",
+      "confidence": 0.9
+    }
+  ],
+  "entities": [],
+  "cross_references": []
+}

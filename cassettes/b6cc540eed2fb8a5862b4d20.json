@@ -1,0 +1,69 @@
+{
+  "clause_types": [
+    "scope",
+    "definition"
+  ],
+  "obligations": [
+    {
+      "subject": "ESMA",
+      "modality": "shall",
+      "action": "define the Criteria for the product registration under the Emirates Conformity Assessment Scheme (ECAS)",
+      "condition": "",
+      "quote": "This document defines the Criteria for the product registration under the Emirates Conformity Assessment Scheme (ECAS) being implemented by the Emirates Authority for Standardization and Metrology (ESMA).",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Manufacturers and Traders",
+      "modality": "shall",
+      "action": "comply with the requirements defined in this document",
+      "condition": "for the purpose of promoting and selling their products in the United Arab Emirates",
+      "quote": "The requirements defined in this document are issued for the information, guidance and compliance of Manufacturers and Traders intending to promote and sell their products in the United Arab Emirates.",
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "Emirates Conformity Assessment Scheme",
+      "normalized": "ECAS",
+      "quote": "This document defines the Criteria for the product registration under the Emirates Conformity Assessment Scheme (ECAS)",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Emirates Authority for Standardization and Metrology",
+      "normalized": "ESMA",
+      "quote": "This document defines the Criteria for the product registration under the Emirates Conformity Assessment Scheme (ECAS) being implemented by the Emirates Authority for Standardization and Metrology (ESMA).",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Manufacturers",
+      "normalized": "Manufacturers",
+      "quote": "The requirements defined in this document are issued for the information, guidance and compliance of Manufacturers and Traders...",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Traders",
+      "normalized": "Traders",
+      "quote": "The requirements defined in this document are issued for the information, guidance and compliance of Manufacturers and Traders...",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "United Arab Emirates",
+      "normalized": "United Arab Emirates",
+      "quote": "The requirements defined in this document are issued for the information, guidance and compliance of Manufacturers and Traders intending to promote and sell their products in the United Arab Emirates.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product registration",
+      "normalized": "product registration",
+      "quote": "This document defines the Criteria for the product registration under the Emirates Conformity Assessment Scheme (ECAS)",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

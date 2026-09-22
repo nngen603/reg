@@ -1,0 +1,23 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "standard_reference",
+      "text": "BS 1363",
+      "normalized": "BS 1363",
+      "quote": "BS 1363 Plugs with a dummy plastic earth pin for Class II Appliances",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "Class II Appliances",
+      "normalized": "Class II Appliances",
+      "quote": "BS 1363 Plugs with a dummy plastic earth pin for Class II Appliances",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

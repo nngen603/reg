@@ -1,0 +1,44 @@
+{
+  "clause_types": [
+    "scope"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "organisation",
+      "text": "Emirates Conformity Assessment Scheme (ECAS)",
+      "normalized": "Emirates Conformity Assessment Scheme (ECAS)",
+      "quote": "This document defines the Criteria for the product registration under the Emirates Conformity Assessment Scheme (ECAS) being implemented by the Emirates Authority for Standardization and Metrology (ESMA).",
+      "confidence": 1.0
+    },
+    {
+      "type": "organisation",
+      "text": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "normalized": "Emirates Authority for Standardization and Metrology (ESMA)",
+      "quote": "This document defines the Criteria for the product registration under the Emirates Conformity Assessment Scheme (ECAS) being implemented by the Emirates Authority for Standardization and Metrology (ESMA).",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "Manufacturers",
+      "normalized": "Manufacturers",
+      "quote": "The requirements defined in this document are issued for the information, guidance and compliance of Manufacturers and Traders intending to promote and sell their products in the United Arab Emirates.",
+      "confidence": 1.0
+    },
+    {
+      "type": "role",
+      "text": "Traders",
+      "normalized": "Traders",
+      "quote": "The requirements defined in this document are issued for the information, guidance and compliance of Manufacturers and Traders intending to promote and sell their products in the United Arab Emirates.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "United Arab Emirates",
+      "normalized": "United Arab Emirates",
+      "quote": "The requirements defined in this document are issued for the information, guidance and compliance of Manufacturers and Traders intending to promote and sell their products in the United Arab Emirates.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

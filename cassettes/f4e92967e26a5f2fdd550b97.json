@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "definition"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "process",
+      "normalized": "",
+      "quote": "process, product or service meets relevant standards and fulfills relevant",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "",
+      "quote": "process, product or service meets relevant standards and fulfills relevant",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "service",
+      "normalized": "",
+      "quote": "process, product or service meets relevant standards and fulfills relevant",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

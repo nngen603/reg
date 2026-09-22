@@ -1,0 +1,30 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "location",
+      "text": "Factory",
+      "normalized": "",
+      "quote": "7.1.3 Location Map of the Factory and/or warehouse where the product is stored.",
+      "confidence": 1.0
+    },
+    {
+      "type": "location",
+      "text": "warehouse",
+      "normalized": "",
+      "quote": "7.1.3 Location Map of the Factory and/or warehouse where the product is stored.",
+      "confidence": 1.0
+    },
+    {
+      "type": "product_category",
+      "text": "product",
+      "normalized": "",
+      "quote": "7.1.3 Location Map of the Factory and/or warehouse where the product is stored.",
+      "confidence": 1.0
+    }
+  ],
+  "cross_references": []
+}

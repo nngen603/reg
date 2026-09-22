@@ -1,0 +1,51 @@
+{
+  "_about": "Stands in for documents already ingested into the corpus. Entries with cited_by use titles exactly as CARL-01 cites them. Entries marked synthetic are invented near-misses; they exist only to prove that resolution refuses a document that merely looks similar. At run time the titles in distractor_titles.txt are added as unrelated noise.",
+  "documents": [
+    {
+      "id": "ECAS-GR",
+      "title": "ECAS General Requirements",
+      "aliases": ["Emirates Conformity Assessment Scheme General Requirements"],
+      "issuer": "ESMA",
+      "jurisdiction": "AE",
+      "kind": "scheme_rules",
+      "cited_by": "CARL-01 clause 8.1; the alias expands the acronym as CARL-01 section 1 does"
+    },
+    {
+      "id": "AE-FL-28",
+      "title": "Federal Law No. 28",
+      "aliases": [],
+      "issuer": "UAE",
+      "jurisdiction": "AE",
+      "kind": "law",
+      "cited_by": "CARL-01 clause 5.1"
+    },
+    {
+      "id": "SYN-FL-24",
+      "title": "Federal Law No. 24",
+      "jurisdiction": "AE",
+      "kind": "law",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-ECAS-REG",
+      "title": "ECAS Registration Guidelines",
+      "jurisdiction": "AE",
+      "kind": "guidance",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-TOY",
+      "title": "General Requirements for Toy Safety",
+      "jurisdiction": "AE",
+      "kind": "technical_regulation",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-LVD",
+      "title": "Low Voltage Equipment Directive",
+      "jurisdiction": "EU",
+      "kind": "directive",
+      "synthetic": true
+    }
+  ]
+}

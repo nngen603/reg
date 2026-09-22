@@ -1,0 +1,17 @@
+{
+  "clause_types": [
+    "requirement"
+  ],
+  "obligations": [
+    {
+      "subject": "Manufacturer / Trader",
+      "modality": "shall",
+      "action": "issue a Declaration of Conformity",
+      "condition": "",
+      "quote": "Manufacturer’s / Traders Declaration of Conformity",
+      "confidence": 0.9
+    }
+  ],
+  "entities": [],
+  "cross_references": []
+}

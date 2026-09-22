@@ -1,0 +1,11 @@
+[project]
+name = "regextract"
+version = "0.2.0"
+description = "Regulatory clause and entity extraction with verified evidence and review routing"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["regextract*"]

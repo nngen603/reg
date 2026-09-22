@@ -1,0 +1,38 @@
+{
+  "clause_types": [
+    "requirement",
+    "scope"
+  ],
+  "obligations": [],
+  "entities": [
+    {
+      "type": "product_category",
+      "text": "Low Voltage Electrical Equipment",
+      "normalized": "Low Voltage Electrical Equipment",
+      "quote": "Low Voltage Electrical Equipment are being inspected at Port of Entry.",
+      "confidence": 0.99
+    },
+    {
+      "type": "location",
+      "text": "Port of Entry",
+      "normalized": "Port of Entry",
+      "quote": "Low Voltage Electrical Equipment are being inspected at Port of Entry.",
+      "confidence": 0.99
+    },
+    {
+      "type": "legal_reference",
+      "text": "ECAS Registration Certificates",
+      "normalized": "ECAS Registration Certificates",
+      "quote": "Only consignments having valid ECAS Registration Certificates and valid ECAS Mark of Conformity are allowed to enter the country.",
+      "confidence": 0.99
+    },
+    {
+      "type": "legal_reference",
+      "text": "ECAS Mark of Conformity",
+      "normalized": "ECAS Mark of Conformity",
+      "quote": "Only consignments having valid ECAS Registration Certificates and valid ECAS Mark of Conformity are allowed to enter the country.",
+      "confidence": 0.99
+    }
+  ],
+  "cross_references": []
+}
